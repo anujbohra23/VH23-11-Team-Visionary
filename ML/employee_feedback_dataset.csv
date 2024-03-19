@@ -1,0 +1,451 @@
+emp_id,date,role,category,feedback,sentiment
+5621,2022-09-25,Manager,Harassment and Discrimination,Employee resource groups need more support and resources.,negative
+5395,2023-12-08,Employee,Work-Life Balance,Overwork during challenging times negatively impacts well-being.,negative
+1028,2020-07-25,Manager,Cleanliness,The organization's cleanliness initiatives need reevaluation.,negative
+9764,2021-05-15,Employee,Harassment and Discrimination,Offering training on cultural sensitivity is a positive step towards inclusivity.,positive
+4158,2022-03-24,Employee,Cleanliness,Cleanliness measures during the pandemic are reassuring.,positive
+3813,2022-05-05,Employee,Harassment and Discrimination,Employees need more support and encouragement to report discrimination.,negative
+2053,2021-05-20,Manager,Work-Life Balance,The company's emphasis on taking breaks is understood.,neutral
+1227,2022-11-02,Supervisor,Work-Life Balance,Providing resources on time management and prioritization is beneficial.,positive
+6382,2022-01-12,Employee,Departmental level work,The Training department's e-learning modules have received mixed feedback.,neutral
+4332,2021-04-26,Employee,Career Development,Employees lack awareness of career advancement options.,negative
+5124,2022-06-04,Employee,Harassment and Discrimination,Encouraging employees to engage in diversity-focused networking events is beneficial.,positive
+9718,2022-09-09,Employee,Stress,The company's efforts to reduce stress have not translated into practical solutions.,negative
+5208,2023-06-18,Manager,Work-Life Balance,Encouraging employees to use their vacation days helps in maintaining balance.,positive
+3272,2021-08-08,Employee,Career Development,Cross-functional teams provide diverse career experiences.,positive
+9542,2021-12-20,Employee,Departmental level work,Marketing's creative campaigns have elicited diverse responses.,neutral
+1259,2020-03-28,Manager,Work-Life Balance,Managers lead by example in maintaining a healthy work-life balance.,positive
+1305,2022-11-10,Manager,Harassment and Discrimination,We appreciate the HR department's efforts in handling harassment complaints professionally.,positive
+8911,2021-08-02,Supervisor,Harassment and Discrimination,Management should provide more resources for employee diversity initiatives.,negative
+3255,2021-07-23,Employee,Departmental level work,Collaboration between Finance and Operations requires ongoing efforts.,neutral
+2367,2020-10-21,Supervisor,Stress,Managers address stress-related concerns to varying degrees.,neutral
+4958,2022-04-27,Employee,Work-Life Balance,Encouraging employees to recharge and relax may not be a consistent practice.,negative
+2159,2021-01-19,Manager,Career Development,Improvement in career development efforts is overdue.,negative
+1788,2020-08-06,Manager,Work-Life Balance,"Work-life balance remains a challenge, impacting employee satisfaction.",negative
+9111,2023-06-22,Employee,Work-Life Balance,Remote work options are considered a potential solution for balance.,neutral
+4512,2021-03-09,Employee,Departmental level work,Supply chain challenges in Manufacturing are negatively impacting operations.,negative
+4134,2021-07-12,Manager,Harassment and Discrimination,The company's efforts to promote diversity are reflected in our inclusive culture.,positive
+6843,2023-08-27,Manager,Harassment and Discrimination,Allyship resources need to be more readily available.,negative
+1646,2020-04-02,Manager,Career Development,Continuous improvement in career development is a priority.,positive
+7503,2022-03-14,Employee,Harassment and Discrimination,Transparency in handling discrimination cases is currently lacking.,neutral
+8792,2021-08-12,Supervisor,Harassment and Discrimination,Encouraging employees to participate in diversity-related events is valuable.,positive
+9524,2023-04-22,Supervisor,Stress,The impact of stress on mental health is a complex issue.,neutral
+1506,2021-04-13,Employee,Career Development,Performance reviews include some discussion of career development.,neutral
+7898,2023-12-28,Supervisor,Work-Life Balance,Overwork during challenging times may affect some more than others.,neutral
+6620,2020-11-16,Employee,Work-Life Balance,Colleagues have different perspectives on work-life balance.,neutral
+5561,2022-02-24,Supervisor,Departmental level work,The contract approval process with Legal is cumbersome and slow.,negative
+2555,2021-01-12,Supervisor,Harassment and Discrimination,Communication about the company's policies regarding harassment needs improvement.,negative
+7757,2023-12-13,Manager,Stress,There's room for improvement in stress communication and awareness.,neutral
+7490,2022-02-17,Manager,Cleanliness,Cleanliness issues raise doubts about safety.,negative
+8050,2021-12-21,Employee,Cleanliness,Cleaning routines are somewhat ingrained in our work culture.,neutral
+3875,2020-02-10,Employee,Work-Life Balance,The company's emphasis on regular breaks may not be enforced consistently.,negative
+1136,2022-08-15,Employee,Career Development,Employees feel supported in pursuing career changes within the company.,positive
+3415,2022-04-05,Employee,Departmental level work,IT's successful maintenance of our technology infrastructure is appreciated.,positive
+3200,2021-07-28,Employee,Stress,The company's commitment to employee well-being is reflected in its policies.,positive
+6368,2020-12-09,Supervisor,Cleanliness,Cleanliness issues dampen my pride in our workplace.,negative
+4626,2020-10-20,Manager,Harassment and Discrimination,Employee resource groups having leadership support is a great source of encouragement.,positive
+3908,2023-06-05,Employee,Departmental level work,Legal's guidance on contracts has been inconsistent and frustrating.,negative
+3510,2022-09-01,Employee,Departmental level work,The Manufacturing team is consistently falling short of production targets.,negative
+2332,2020-02-07,Employee,Work-Life Balance,Remote work options may not be readily available to all employees.,negative
+7626,2022-10-01,Employee,Work-Life Balance,The company's approach to minimizing overtime is being evaluated.,neutral
+6748,2020-10-18,Manager,Career Development,Support for employees pursuing further education is commendable.,positive
+9758,2023-11-02,Employee,Departmental level work,Efforts to enhance coordination between HR and Training are paying off.,positive
+9800,2021-12-22,Supervisor,Career Development,Career development initiatives align with company goals.,positive
+5472,2020-02-01,Manager,Career Development,Recognition and rewards for career milestones exist to some extent.,neutral
+2137,2022-06-03,Supervisor,Harassment and Discrimination,Promotions should be based more on merit and less on bias.,negative
+9979,2021-06-02,Supervisor,Departmental level work,The Manufacturing team is consistently falling short of production targets.,negative
+6214,2021-04-24,Manager,Stress,Flexibility in remote work options reduces stress for employees.,positive
+4958,2020-05-12,Supervisor,Stress,Providing training on stress management techniques is valuable.,positive
+5999,2022-01-20,Employee,Harassment and Discrimination,Workshops on mitigating unconscious bias need to be more effective.,neutral
+1840,2022-07-24,Supervisor,Departmental level work,Investments in IT for future growth are seen as a smart move.,positive
+8998,2022-04-13,Supervisor,Career Development,Support for employees pursuing further education is commendable.,positive
+4366,2021-08-06,Manager,Career Development,Employee success stories inspire others in their career journeys.,positive
+3559,2023-06-24,Manager,Career Development,Career development offerings have moderate comprehensiveness.,neutral
+2245,2020-01-15,Supervisor,Harassment and Discrimination,Encouraging employees to share their diversity stories fosters a sense of belonging.,positive
+4271,2022-01-26,Employee,Harassment and Discrimination,It's great to see the company taking a proactive stance against harassment.,positive
+7332,2021-07-05,Manager,Departmental level work,The Manufacturing team is consistently falling short of production targets.,negative
+3072,2023-03-09,Employee,Harassment and Discrimination,Management should provide more resources for employee diversity initiatives.,negative
+6340,2020-12-06,Supervisor,Work-Life Balance,The company's commitment to a reasonable workweek positively impacts work-life balance.,positive
+9599,2021-12-25,Manager,Cleanliness,Cleanliness doesn't improve the overall work environment.,negative
+1376,2022-03-08,Supervisor,Work-Life Balance,The company's emphasis on taking breaks is understood.,neutral
+4426,2020-03-20,Employee,Cleanliness,Cleanliness measures don't create a welcoming space.,negative
+7964,2021-08-01,Employee,Cleanliness,Cleanliness contributes to a positive and hygienic atmosphere.,positive
+6624,2020-05-21,Manager,Stress,Lack of recognition and appreciation adds to job-related stress.,negative
+9171,2021-02-21,Supervisor,Stress,The impact of stress on employee health and productivity is a significant concern.,negative
+5317,2022-09-24,Manager,Cleanliness,Cleanliness in restrooms and break areas is neutral regarding morale.,neutral
+7932,2020-03-21,Employee,Work-Life Balance,The availability of paid time off for personal reasons is a valuable benefit.,positive
+9429,2023-01-06,Supervisor,Career Development,"Internal promotions occur occasionally, impacting some employees.",neutral
+9205,2020-07-05,Supervisor,Departmental level work,Investment in IT infrastructure has not kept up with company growth.,negative
+5336,2020-04-01,Supervisor,Cleanliness,Workplace cleanliness moderately affects productivity.,neutral
+6088,2020-06-13,Supervisor,Departmental level work,Integrating R&D findings into Marketing strategies is proving difficult.,negative
+4632,2020-02-05,Employee,Departmental level work,Communication between Support and Product teams is a subject of discussion.,neutral
+2877,2022-05-25,Supervisor,Cleanliness,The restrooms are always spotless and well-stocked.,positive
+8195,2023-01-21,Supervisor,Harassment and Discrimination,Diversity and inclusion surveys should be conducted more frequently.,neutral
+6143,2022-09-08,Employee,Work-Life Balance,The company's approach to handling personal time varies by team.,negative
+6189,2020-04-03,Manager,Cleanliness,Janitorial staff needs improvement in maintaining cleanliness.,negative
+8434,2023-11-26,Employee,Departmental level work,The Production team's attention to detail varies by project.,neutral
+5284,2020-03-17,Supervisor,Stress,Work-related stress can impact job satisfaction differently.,neutral
+3864,2021-08-22,Manager,Harassment and Discrimination,Employee resource groups having leadership support is a great source of encouragement.,positive
+7095,2021-12-13,Employee,Cleanliness,The cleanliness of shared spaces reflects professionalism.,positive
+4910,2023-01-20,Manager,Harassment and Discrimination,Unconscious bias is still prevalent and requires more attention.,negative
+3786,2023-11-26,Supervisor,Career Development,Career paths and growth opportunities are somewhat defined.,neutral
+5258,2022-11-02,Supervisor,Career Development,"Career advancement is slow, leading to employee frustration.",negative
+3376,2022-12-02,Employee,Stress,The company's commitment to a healthy work-life balance positively impacts stress levels.,positive
+1004,2023-11-25,Manager,Harassment and Discrimination,It's great to see the company taking a proactive stance against harassment.,positive
+8563,2023-03-21,Supervisor,Work-Life Balance,Inconsistent workload management impacts work-life balance.,negative
+4880,2021-09-24,Manager,Departmental level work,The Marketing team's recent campaigns have had mixed responses.,neutral
+3958,2021-11-23,Supervisor,Departmental level work,The Manufacturing team consistently meets production targets.,positive
+4562,2023-04-09,Supervisor,Harassment and Discrimination,The anti-retaliation policy needs to be reinforced more consistently.,neutral
+3699,2022-11-07,Employee,Departmental level work,Training's workshops have not delivered the expected results.,negative
+8412,2023-12-07,Manager,Work-Life Balance,The company's support for remote work options may not be uniform.,negative
+6099,2020-11-07,Employee,Career Development,Regular performance reviews include discussions on career development.,positive
+2571,2020-05-15,Employee,Work-Life Balance,Encouraging employees to take care of their well-being is appreciated.,positive
+1176,2023-10-05,Employee,Stress,"Communication about changes in the workplace has been unclear, causing stress.",negative
+3834,2021-10-16,Manager,Departmental level work,"Customer Support's responsiveness has declined, affecting satisfaction.",negative
+5325,2020-05-26,Manager,Stress,The lack of a comprehensive stress management program is disappointing.,negative
+4389,2022-10-04,Manager,Harassment and Discrimination,Harassment awareness campaigns should be more widespread.,neutral
+6554,2020-10-19,Employee,Stress,The company's response to employee stress has been inadequate.,negative
+8997,2020-08-08,Employee,Cleanliness,Cleanliness issues receive some attention proactively.,neutral
+1525,2021-12-19,Manager,Career Development,Managers play a significant role in mentoring employees for career growth.,positive
+6767,2021-09-20,Employee,Work-Life Balance,The availability of flexible scheduling options is a significant advantage.,positive
+2149,2022-07-05,Manager,Cleanliness,The organization's dedication to cleanliness is somewhat evident.,neutral
+5397,2023-09-28,Employee,Career Development,The company's career development approach is proactive.,positive
+1069,2021-07-02,Supervisor,Harassment and Discrimination,Harassment awareness campaigns need to be more proactive.,neutral
+5385,2020-08-12,Supervisor,Work-Life Balance,The company's approach to managing workloads needs improvement.,negative
+2200,2020-03-24,Supervisor,Stress,Ineffective communication from leadership contributes to stress and uncertainty.,negative
+9613,2022-07-27,Employee,Cleanliness,Cleanliness measures are communicated to some degree.,neutral
+8718,2020-01-04,Manager,Harassment and Discrimination,Transparency in handling discrimination cases is currently lacking.,neutral
+9169,2020-02-15,Manager,Career Development,Skill-building opportunities are abundant.,positive
+8609,2021-04-27,Employee,Work-Life Balance,Colleague support for work-life balance may vary by department.,neutral
+6273,2020-11-27,Manager,Harassment and Discrimination,Workshops on mitigating unconscious bias need to be more effective.,neutral
+1478,2020-10-22,Employee,Departmental level work,"Transparency in Operations remains a challenge, causing uncertainty.",negative
+3653,2021-01-02,Manager,Career Development,Career development feedback is actively sought from employees.,positive
+7571,2022-09-28,Manager,Cleanliness,Cleanliness in common areas promotes a sense of community.,positive
+6620,2023-11-19,Employee,Cleanliness,Recent cleanliness lapses have been concerning.,negative
+6402,2023-09-26,Manager,Work-Life Balance,Encouraging employees to take regular breaks has positively impacted work-life balance.,positive
+6841,2022-08-20,Manager,Career Development,The company fosters a culture of continuous learning and growth.,positive
+5308,2020-08-02,Manager,Cleanliness,Cleanliness practices somewhat contribute to a healthy work culture.,neutral
+7044,2020-07-20,Supervisor,Work-Life Balance,Colleague support for work-life balance may vary by department.,neutral
+8303,2021-12-19,Supervisor,Stress,Employee feedback is taken seriously and contributes to a less stressful work environment.,positive
+9127,2021-02-06,Supervisor,Harassment and Discrimination,Management should provide more resources for employee diversity initiatives.,neutral
+5202,2023-09-27,Supervisor,Cleanliness,Cleanliness measures don't create a welcoming space.,negative
+6102,2023-12-10,Employee,Cleanliness,The cleanliness standards are consistently high and impressive.,positive
+7028,2020-06-14,Supervisor,Cleanliness,Cleanliness standards meet and exceed expectations.,positive
+4742,2021-07-16,Manager,Harassment and Discrimination,Transparency is lacking in the handling of discrimination cases.,neutral
+9217,2022-02-20,Supervisor,Cleanliness,The organization's cleanliness initiatives have a moderate impact.,neutral
+1040,2021-08-05,Supervisor,Cleanliness,The cleaning staff performs their duties adequately.,neutral
+1228,2020-08-20,Manager,Stress,Managers who lead by example in managing stress set a positive tone.,positive
+4400,2022-03-12,Manager,Work-Life Balance,Inconsistent workload management affects work-life balance.,negative
+3391,2021-02-21,Supervisor,Stress,The impact of stress on productivity is a concern.,neutral
+5328,2021-05-17,Supervisor,Departmental level work,Customer Feedback is essential for product improvement.,positive
+6426,2020-10-06,Employee,Cleanliness,Cleanliness neither significantly boosts nor diminishes pride in our workplace.,neutral
+8878,2022-01-16,Manager,Cleanliness,I never have concerns about hygiene in our workspace.,positive
+4791,2021-10-23,Manager,Stress,Insufficient resources and support make it challenging to manage work-related stress.,negative
+8924,2021-02-07,Manager,Work-Life Balance,Encouraging employees to recharge and relax is a practice to consider.,neutral
+6109,2022-03-11,Manager,Work-Life Balance,Managers' expectations sometimes lead to excessive work hours and stress.,negative
+9115,2023-11-03,Manager,Work-Life Balance,Managers' attitudes toward work-life balance differ.,neutral
+3433,2023-01-15,Manager,Stress,Flexibility in remote work options reduces stress for employees.,positive
+6210,2021-07-13,Supervisor,Departmental level work,"Communication between Sales and Marketing has been lacking, affecting outcomes.",negative
+4682,2020-04-09,Supervisor,Work-Life Balance,The ability to work remotely has allowed for more control over work-life balance.,positive
+6074,2021-01-16,Manager,Harassment and Discrimination,Diversity and inclusion assessments need to be more comprehensive.,negative
+7687,2020-03-11,Manager,Harassment and Discrimination,The anti-retaliation policy needs to be reinforced more consistently.,neutral
+8613,2020-03-05,Employee,Cleanliness,Regular cleaning routines are a vital part of our work culture.,positive
+6687,2021-08-27,Supervisor,Career Development,Employee empowerment for career planning is discouraged.,negative
+9691,2023-07-28,Manager,Harassment and Discrimination,Transparency in handling discrimination cases is currently lacking.,neutral
+6188,2020-08-08,Supervisor,Career Development,The company maintains a moderate culture of continuous learning.,neutral
+7679,2023-07-28,Manager,Cleanliness,I feel safe knowing that cleanliness is taken seriously here.,positive
+4736,2021-01-07,Supervisor,Career Development,Performance reviews include some discussion of career development.,neutral
+5427,2023-10-12,Manager,Departmental level work,Finance's budget management has led to both cost savings and constraints.,neutral
+1476,2020-01-18,Employee,Departmental level work,Operations' streamlined processes have both pros and cons.,neutral
+5608,2020-02-07,Manager,Work-Life Balance,The company's efforts to reduce excessive workload during peak times are effective.,positive
+7426,2023-08-14,Supervisor,Career Development,Career development efforts are tailored to individual needs.,positive
+1128,2020-11-03,Employee,Career Development,Support for further education exists but may require more promotion.,neutral
+4369,2020-03-13,Supervisor,Harassment and Discrimination,Communication about the company's policies regarding harassment needs improvement.,negative
+8598,2022-05-23,Employee,Departmental level work,IT's maintenance of our technology infrastructure has been lacking.,negative
+3720,2023-06-20,Employee,Departmental level work,"Customer Support's responsiveness has been declining, leading to frustration.",negative
+7420,2023-06-19,Employee,Stress,The company's commitment to employee well-being is a work in progress.,neutral
+9747,2022-10-04,Supervisor,Harassment and Discrimination,Managers leading by example in promoting inclusivity is commendable.,positive
+6355,2023-10-23,Manager,Stress,The company's initiatives to reduce stress have not been effective.,negative
+7433,2023-07-19,Manager,Work-Life Balance,The company's emphasis on taking breaks may not be consistently practiced.,negative
+9916,2023-10-07,Supervisor,Work-Life Balance,Encouraging self-care practices is considered valuable.,neutral
+9492,2023-02-04,Manager,Stress,Workload and stress levels fluctuate throughout the year.,neutral
+9536,2020-11-17,Supervisor,Cleanliness,Cleanliness issues negatively affect my workplace satisfaction.,negative
+3369,2020-04-12,Supervisor,Cleanliness,The cleanliness efforts foster a pleasant work environment.,positive
+5901,2023-07-16,Employee,Departmental level work,Operations' efficiency efforts have both positive and negative impacts.,neutral
+1576,2021-10-18,Employee,Departmental level work,Operations' efficiency efforts have both positive and negative impacts.,neutral
+5374,2023-09-03,Supervisor,Work-Life Balance,The company's approach to employee well-being is under review.,neutral
+3963,2021-09-14,Employee,Career Development,Career goals are aligned with personal aspirations.,positive
+7744,2023-04-05,Supervisor,Cleanliness,I'm impressed by the consistent cleanliness of our premises.,positive
+5686,2022-05-20,Supervisor,Harassment and Discrimination,The company's commitment to diversity is evident in our inclusive policies.,positive
+1278,2022-11-26,Manager,Departmental level work,Ensuring Research insights inform our Sales strategy is crucial.,positive
+2682,2022-07-25,Manager,Departmental level work,Marketing's creative campaigns have missed the mark.,negative
+5490,2020-04-19,Employee,Harassment and Discrimination,The company's commitment to diversity is evident in our inclusive policies.,positive
+3947,2023-05-27,Supervisor,Departmental level work,Sales department's performance has been inconsistent and needs improvement.,negative
+5845,2023-01-07,Supervisor,Departmental level work,Aligning budget priorities more closely with strategic goals is wise.,positive
+2935,2022-06-03,Employee,Departmental level work,Enhancing EHS awareness across the organization is important.,positive
+2388,2021-07-17,Supervisor,Career Development,Leadership development programs fall short in nurturing leaders.,negative
+2628,2022-03-10,Manager,Departmental level work,IT's response to technical issues varies depending on the situation.,neutral
+9639,2020-06-21,Supervisor,Departmental level work,Environmental Health and Safety maintains a safe workplace.,positive
+1740,2022-02-17,Supervisor,Stress,Regular breaks and time off policies help in reducing stress levels.,positive
+6579,2022-10-13,Manager,Harassment and Discrimination,Allyship resources need improvement.,negative
+8439,2022-05-24,Manager,Career Development,Skill development programs are outdated and do not benefit careers.,negative
+9615,2023-11-24,Manager,Career Development,Managers do not invest enough time in mentoring employees for career growth.,negative
+9873,2023-04-11,Employee,Harassment and Discrimination,Diversity in leadership positions needs to be improved.,neutral
+7255,2023-08-05,Employee,Career Development,"Internal promotions occur occasionally, impacting some employees.",neutral
+6219,2021-03-04,Manager,Stress,The company's focus on reducing workload during peak times is beneficial.,positive
+6274,2023-04-07,Supervisor,Career Development,Cross-training opportunities provide some exposure to new skills.,neutral
+7883,2021-09-24,Manager,Departmental level work,Efforts to enhance coordination between HR and Training are paying off.,positive
+9048,2022-08-17,Supervisor,Cleanliness,The cleanliness of shared spaces reflects professionalism.,positive
+9324,2020-02-16,Supervisor,Departmental level work,Ensuring Research insights inform our Sales strategy has been a struggle.,negative
+5750,2021-11-18,Supervisor,Work-Life Balance,Remote work options are known to be advantageous for some.,neutral
+1527,2022-10-18,Supervisor,Harassment and Discrimination,More work is needed to promote a culture of respect and inclusion.,negative
+1591,2023-12-01,Employee,Work-Life Balance,Workload and stress levels fluctuate throughout the year.,neutral
+3744,2021-04-04,Manager,Harassment and Discrimination,Allyship resources need improvement.,negative
+2926,2021-02-09,Manager,Work-Life Balance,Work-from-home policies do not support a balanced work-life routine.,negative
+5568,2023-06-16,Employee,Cleanliness,The organization's dedication to cleanliness is lacking.,negative
+4437,2023-04-08,Manager,Stress,Lack of support from managers in addressing stress-related concerns is disappointing.,negative
+7170,2020-08-09,Employee,Departmental level work,"Budget priorities are not aligned with strategic goals, causing inefficiencies.",negative
+4782,2023-11-03,Supervisor,Departmental level work,"Transparency in Operations remains a challenge, causing uncertainty.",negative
+5930,2023-02-03,Manager,Harassment and Discrimination,Leaders should be held more accountable for promoting inclusion.,neutral
+2879,2023-07-26,Manager,Departmental level work,The Training department's programs have their strengths and weaknesses.,neutral
+4613,2023-07-15,Manager,Departmental level work,Collaboration between Finance and Operations requires ongoing efforts.,neutral
+3935,2020-01-22,Manager,Harassment and Discrimination,Providing resources for employees to learn about cultural differences is a great initiative.,positive
+3282,2020-07-12,Employee,Departmental level work,Operations' streamlined processes have both pros and cons.,neutral
+8484,2020-03-16,Supervisor,Work-Life Balance,Supportive colleagues help create a work environment conducive to work-life balance.,positive
+8502,2021-09-01,Supervisor,Career Development,Career development offerings lack comprehensiveness.,negative
+8150,2023-10-02,Employee,Departmental level work,"Transparency in Operations remains a challenge, causing uncertainty.",negative
+2688,2022-06-05,Manager,Work-Life Balance,Encouraging employees to take regular breaks has positively impacted work-life balance.,positive
+2343,2021-06-19,Supervisor,Career Development,Cross-functional teams do not offer diverse career experiences.,negative
+1898,2021-12-26,Manager,Cleanliness,Cleanliness contributes to a positive and hygienic atmosphere.,positive
+1477,2021-02-28,Employee,Stress,There's room for improvement in stress communication and awareness.,neutral
+9390,2023-05-06,Manager,Cleanliness,Cleanliness issues require a more proactive approach.,negative
+9585,2021-06-18,Supervisor,Cleanliness,Cleanliness measures somewhat create a welcoming space.,neutral
+4358,2021-12-28,Employee,Harassment and Discrimination,Workshops on mitigating unconscious bias should be more comprehensive.,neutral
+2858,2022-05-28,Manager,Harassment and Discrimination,Employee resource groups play a vital role in promoting diversity.,positive
+8091,2023-04-15,Employee,Stress,Stress relief activities are available occasionally.,neutral
+3553,2020-03-09,Manager,Stress,Work-related stress can impact job satisfaction differently.,neutral
+3149,2020-03-26,Employee,Departmental level work,The Training department's e-learning modules are effective.,positive
+6917,2023-03-28,Employee,Harassment and Discrimination,Harassment awareness campaigns need to be more proactive.,neutral
+2074,2021-01-13,Supervisor,Departmental level work,Marketing's creative campaigns garner attention effectively.,positive
+9773,2023-09-04,Manager,Career Development,Training to bridge skill gaps is not prioritized.,negative
+9768,2022-08-19,Employee,Departmental level work,Human Resources' talent acquisition efforts have been ineffective.,negative
+6514,2023-02-15,Supervisor,Work-Life Balance,Resources for time management and prioritization may not be readily accessible.,negative
+4540,2023-02-28,Employee,Career Development,Employee empowerment for career planning is encouraged.,positive
+5705,2022-08-15,Supervisor,Work-Life Balance,Encouraging employees to recharge and relax may not be a consistent practice.,negative
+1887,2020-10-13,Manager,Departmental level work,Sales department's performance has been inconsistent and needs improvement.,negative
+3818,2021-07-16,Manager,Career Development,The company's career development approach is reactive.,negative
+8863,2020-04-01,Supervisor,Departmental level work,"Marketing campaigns are not aligned with Sales goals, leading to confusion.",negative
+1821,2022-09-16,Manager,Cleanliness,Sanitization practices are somewhat reassuring.,neutral
+3029,2020-04-03,Manager,Harassment and Discrimination,It's great to see the company taking a proactive stance against harassment.,positive
+9467,2020-07-22,Manager,Work-Life Balance,Employees have the flexibility to adjust their work hours for family needs.,positive
+2482,2023-03-06,Employee,Departmental level work,Environmental Health and Safety needs to improve safety protocols.,negative
+1189,2023-06-05,Manager,Harassment and Discrimination,Management should provide more resources for employee diversity initiatives.,neutral
+5856,2021-04-11,Manager,Stress,Employee well-being is a multifaceted concern.,neutral
+2055,2020-09-18,Employee,Stress,Stress is negatively affecting morale and team cohesion.,negative
+1943,2022-07-26,Manager,Cleanliness,Cleanliness standards are generally maintained.,neutral
+2921,2021-08-11,Manager,Stress,The company's recognition of the importance of work-life balance is commendable.,positive
+2467,2022-10-04,Employee,Stress,The company's efforts to reduce stress have not translated into practical solutions.,negative
+1393,2023-12-18,Employee,Harassment and Discrimination,Harassment awareness campaigns should be more widespread.,neutral
+6296,2021-10-06,Employee,Work-Life Balance,Encouraging employees to recharge and relax is a practice to consider.,neutral
+2739,2021-02-21,Employee,Stress,"Employees are encouraged to take breaks, but it depends on team dynamics.",neutral
+9966,2022-08-06,Employee,Work-Life Balance,Encouraging employees to take regular breaks has positively impacted work-life balance.,positive
+7633,2020-09-27,Employee,Work-Life Balance,Work-from-home policies do not support a balanced work-life routine.,negative
+3701,2023-10-11,Manager,Departmental level work,"IT provides quick solutions to technical issues, which is beneficial.",positive
+5387,2022-09-27,Supervisor,Work-Life Balance,Colleague support for work-life balance varies across teams.,negative
+8147,2023-02-05,Manager,Cleanliness,The workplace cleanliness is inconsistent and disappointing.,negative
+4029,2020-06-12,Manager,Stress,Employee well-being initiatives are evolving.,neutral
+4604,2021-02-02,Supervisor,Stress,Employee feedback on stress is considered but not always addressed effectively.,neutral
+6372,2023-05-11,Supervisor,Career Development,The company's career development approach is proactive.,positive
+1239,2023-03-04,Manager,Departmental level work,Operations' streamlined processes have both pros and cons.,neutral
+2747,2023-08-09,Manager,Departmental level work,Finance's budget management has led to both cost savings and constraints.,neutral
+7392,2023-02-16,Manager,Harassment and Discrimination,Discrimination cases often take too long to be resolved.,neutral
+6039,2023-11-05,Supervisor,Cleanliness,Cleanliness should be a higher priority for efficiency.,negative
+8559,2021-04-02,Manager,Departmental level work,The Design team's creative input has both supporters and critics.,neutral
+6742,2020-05-14,Employee,Harassment and Discrimination,"Inclusivity is a core value of our organization, and it's a positive aspect.",positive
+6252,2020-05-07,Supervisor,Stress,Supportive managers provide a sense of security and reduce job-related stress.,positive
+8066,2022-10-28,Supervisor,Cleanliness,"Cleanliness is a top priority, and it shows throughout the facility.",positive
+7195,2020-01-03,Manager,Work-Life Balance,Providing resources on time management and prioritization is beneficial.,positive
+8956,2022-01-01,Manager,Career Development,"Career development resources and guidance are available, though not extensively.",neutral
+5706,2022-09-13,Employee,Departmental level work,Investments in IT for future growth have not yielded desired results.,negative
+5649,2020-10-04,Manager,Work-Life Balance,Colleagues have different perspectives on work-life balance.,neutral
+7770,2021-10-02,Manager,Departmental level work,The Sales department's performance is generally stable.,neutral
+5519,2022-05-17,Employee,Cleanliness,The cleanliness team deserves recognition for their hard work.,positive
+6836,2023-12-28,Supervisor,Cleanliness,Cleanliness issues raise doubts about safety.,negative
+3827,2022-10-13,Employee,Harassment and Discrimination,Providing resources for employees to learn about cultural differences is a great initiative.,positive
+2593,2021-12-18,Manager,Career Development,Employees have a clear understanding of career progression criteria.,positive
+6559,2023-12-22,Supervisor,Cleanliness,Cleanliness somewhat reflects the organization's values.,neutral
+3978,2022-01-08,Supervisor,Stress,Regular breaks and time off policies help in reducing stress levels.,positive
+6375,2020-11-17,Employee,Career Development,Talent development programs enhance long-term career prospects.,positive
+1004,2023-10-14,Employee,Work-Life Balance,Encouraging employees to take care of their well-being is appreciated.,positive
+5715,2021-03-11,Manager,Career Development,Employees lack a voice in shaping their career paths.,negative
+7615,2021-10-18,Supervisor,Cleanliness,Cleaning routines are somewhat ingrained in our work culture.,neutral
+4434,2020-12-10,Manager,Stress,Stress management workshops and seminars are valuable resources.,positive
+5612,2022-11-08,Manager,Work-Life Balance,The company's emphasis on regular breaks may not be enforced consistently.,negative
+9324,2022-06-13,Manager,Harassment and Discrimination,The clear anti-retaliation policy ensures that employees can report harassment without fear.,positive
+1795,2022-09-26,Supervisor,Stress,The company's commitment to employee well-being is a work in progress.,neutral
+9010,2023-06-27,Employee,Work-Life Balance,The company's acknowledgment of the importance of mental health days is commendable.,positive
+7598,2023-10-20,Employee,Work-Life Balance,Managers provide guidance on maintaining balance between work and personal life.,positive
+1398,2020-10-10,Supervisor,Cleanliness,I feel safe knowing that cleanliness is taken seriously here.,positive
+2558,2021-06-16,Manager,Cleanliness,The cleanliness standards are consistently high and impressive.,positive
+2743,2020-03-13,Manager,Stress,Stress-related health issues are on the rise among employees.,negative
+9167,2020-05-05,Manager,Departmental level work,Production delays are a persistent issue that needs urgent attention.,negative
+1628,2021-03-05,Employee,Career Development,Leadership development programs fall short in nurturing leaders.,negative
+4548,2020-03-20,Supervisor,Work-Life Balance,Encouragement to use paid time off may not be consistently promoted.,negative
+4915,2022-10-02,Employee,Stress,Encouraging mindfulness and meditation practices helps in reducing stress.,positive
+9339,2021-09-01,Supervisor,Work-Life Balance,"Work-life balance initiatives, such as remote work options, are highly appreciated.",positive
+5277,2021-12-25,Employee,Work-Life Balance,Inconsistent workload management affects work-life balance.,negative
+5553,2022-06-03,Employee,Harassment and Discrimination,It's great to see the company taking a proactive stance against harassment.,positive
+8701,2020-10-22,Employee,Cleanliness,The organization's commitment to cleanliness wavers.,negative
+8526,2021-11-01,Supervisor,Departmental level work,Sales department's performance has been inconsistent and needs improvement.,negative
+8767,2022-07-27,Supervisor,Harassment and Discrimination,The anti-retaliation policy should be enforced more rigorously.,negative
+7157,2022-08-20,Supervisor,Work-Life Balance,The company's commitment to preventing overwork is recognized.,neutral
+2191,2021-01-15,Employee,Career Development,Internal promotions are a testament to the focus on career advancement.,positive
+4246,2020-07-21,Employee,Cleanliness,Clean restrooms and break areas improve employee morale.,positive
+6870,2020-02-26,Supervisor,Cleanliness,Cleanliness issues require a more proactive approach.,negative
+5946,2020-12-13,Supervisor,Stress,The company's focus on reducing workload during peak times is beneficial.,positive
+2861,2023-06-10,Employee,Cleanliness,Restrooms are usually clean with occasional lapses.,neutral
+2012,2023-11-01,Manager,Cleanliness,Regular sanitization adds an extra layer of safety.,positive
+9187,2021-09-07,Manager,Cleanliness,The organization's commitment to cleanliness wavers.,negative
+6039,2022-04-28,Supervisor,Harassment and Discrimination,Fear of repercussions hinders employees from reporting discrimination.,neutral
+9753,2020-04-12,Employee,Stress,Insufficient training on stress management techniques leaves employees unsupported.,negative
+4738,2023-07-28,Employee,Harassment and Discrimination,Employee resource groups play a vital role in promoting diversity.,positive
+7505,2020-03-07,Manager,Work-Life Balance,The company's support for remote work options is ongoing.,neutral
+6065,2021-08-27,Supervisor,Career Development,Networking events facilitate career-building connections.,positive
+1533,2022-06-07,Manager,Departmental level work,Operations' streamlined processes have both pros and cons.,neutral
+2697,2020-10-17,Manager,Cleanliness,Cleanliness is a reflection of the organization's values.,positive
+9814,2022-07-24,Manager,Work-Life Balance,The company's commitment to preventing overwork needs reinforcement.,negative
+4439,2020-12-14,Supervisor,Harassment and Discrimination,Allyship resources need to be more readily available.,neutral
+2916,2020-08-28,Employee,Career Development,Career development resources and guidance are lacking.,negative
+3281,2023-11-25,Employee,Career Development,The company invests in training to bridge skill gaps.,positive
+5584,2023-10-24,Manager,Cleanliness,It's becoming challenging to work in a clean and tidy environment.,negative
+7777,2020-01-21,Employee,Work-Life Balance,Encouraging employees to utilize paid time off may vary by team.,negative
+7213,2021-01-22,Manager,Work-Life Balance,Encouraging employees to take regular breaks has positively impacted work-life balance.,positive
+3940,2021-08-10,Supervisor,Cleanliness,The organization's cleanliness practices meet some health guidelines.,neutral
+3742,2020-02-05,Employee,Career Development,The HR department provides inadequate guidance on career paths.,negative
+7977,2020-09-16,Supervisor,Career Development,The company's commitment to employee growth is evident.,positive
+7716,2023-02-28,Employee,Career Development,Career workshops and seminars offer mixed benefits.,neutral
+4077,2020-01-11,Employee,Work-Life Balance,Resources for time management and prioritization are available.,neutral
+4444,2022-01-13,Supervisor,Harassment and Discrimination,Allyship resources need to be more readily available.,neutral
+1876,2022-04-10,Supervisor,Career Development,"Cross-training opportunities are scarce, limiting career options.",negative
+3495,2020-08-04,Employee,Work-Life Balance,Support for managing stress differs across teams.,neutral
+8861,2020-11-22,Manager,Cleanliness,Regular sanitization adds a basic layer of safety.,neutral
+6591,2022-12-13,Supervisor,Departmental level work,Production delays require a closer look to determine their causes.,neutral
+3382,2020-02-24,Employee,Harassment and Discrimination,Management should allocate more resources to employee diversity initiatives.,neutral
+5115,2022-03-16,Manager,Departmental level work,Aligning Marketing campaigns with Sales goals is a point of discussion.,neutral
+8217,2021-05-21,Employee,Harassment and Discrimination,Fear of repercussions hinders employees from reporting discrimination.,negative
+9582,2020-11-14,Supervisor,Stress,The management team's transparency about challenging times helps alleviate stress.,positive
+3073,2022-05-06,Supervisor,Cleanliness,The organization's commitment to cleanliness is reasonable.,neutral
+4617,2020-03-02,Employee,Harassment and Discrimination,Offering training on cultural sensitivity is a step in the right direction.,positive
+7927,2023-09-20,Employee,Stress,The company's approach to reducing stress is not proactive or sustainable.,negative
+6076,2020-03-11,Employee,Departmental level work,Development programs in HR are not addressing employees' needs.,negative
+8218,2022-09-01,Supervisor,Career Development,Career growth is perceived as stagnant and unattainable.,negative
+7520,2023-07-25,Employee,Career Development,Internal mobility for career progression is discouraged.,negative
+3103,2022-12-13,Supervisor,Stress,The impact of stress on team dynamics is considered.,neutral
+9298,2021-04-05,Manager,Work-Life Balance,The availability of wellness resources is acknowledged as helpful.,neutral
+3002,2020-06-01,Manager,Departmental level work,HR's talent retention efforts have yielded mixed results.,neutral
+6427,2023-12-05,Employee,Cleanliness,Cleanliness practices somewhat affect the brand image.,neutral
+7619,2020-11-11,Supervisor,Career Development,Career paths and growth opportunities are somewhat defined.,neutral
+7165,2022-08-11,Supervisor,Stress,Employee well-being is a multifaceted concern.,neutral
+3443,2021-12-18,Supervisor,Stress,Employees have access to resources for managing stress.,neutral
+7322,2022-09-06,Employee,Work-Life Balance,Flexibility in work hours is seen as a potential benefit.,neutral
+8703,2021-06-25,Supervisor,Stress,The company's response to employee feedback on stress has been lacking.,negative
+5160,2022-06-08,Manager,Stress,Regular communication about workplace changes helps reduce stress.,positive
+9348,2022-03-15,Manager,Work-Life Balance,The flexibility to adjust work hours for family needs is lacking.,negative
+8447,2023-02-11,Employee,Departmental level work,The contract approval process with Legal is a subject for analysis.,neutral
+9266,2023-12-04,Manager,Stress,Inconsistent policies and procedures contribute to stress and confusion.,negative
+3303,2023-10-25,Manager,Harassment and Discrimination,The diversity and inclusion initiatives are making our workplace more welcoming and inclusive.,positive
+7108,2021-06-20,Supervisor,Cleanliness,Cleanliness standards moderately meet expectations.,neutral
+1246,2022-02-07,Employee,Career Development,Career development opportunities are abundant and accessible.,positive
+9467,2021-07-20,Manager,Stress,High turnover due to stress and burnout is impacting team dynamics.,negative
+7708,2023-05-20,Manager,Departmental level work,The Marketing team's creativity shines through in recent campaigns.,positive
+8217,2021-04-18,Employee,Career Development,Talent development programs enhance long-term career prospects.,positive
+9173,2021-11-14,Manager,Stress,Stress management resources are not easily accessible to all employees.,negative
+4537,2020-07-23,Supervisor,Harassment and Discrimination,The anti-retaliation policy needs to be reinforced more consistently.,neutral
+6362,2022-01-16,Supervisor,Harassment and Discrimination,Offering training on cultural sensitivity is a step in the right direction.,positive
+9932,2022-12-28,Employee,Stress,The company acknowledges the importance of work-life balance.,neutral
+4452,2023-07-17,Manager,Departmental level work,The feedback analysis process is disorganized and ineffective.,negative
+7184,2020-08-24,Manager,Harassment and Discrimination,The company's commitment to addressing harassment and discrimination is commendable.,positive
+2922,2023-10-25,Manager,Work-Life Balance,Employees have the freedom to adjust their work hours to suit their needs.,positive
+1294,2020-07-13,Manager,Departmental level work,Quality Assurance's performance in maintaining product standards is debatable.,neutral
+5763,2020-10-03,Supervisor,Work-Life Balance,The company's approach to ensuring a manageable workload is effective.,positive
+5992,2023-08-08,Manager,Work-Life Balance,Work-related stress can be influenced by team dynamics.,neutral
+6149,2023-09-22,Employee,Departmental level work,Integrating R&D findings into Marketing strategies is a matter of debate.,neutral
+5577,2022-10-02,Employee,Career Development,Employees have some awareness of career advancement options.,neutral
+4114,2020-07-25,Manager,Stress,The company's commitment to employee well-being is reflected in its policies.,positive
+4278,2022-02-26,Employee,Work-Life Balance,Supportive colleagues contribute to a positive work-life balance culture.,positive
+8192,2021-12-13,Manager,Harassment and Discrimination,We need more resources to combat microaggressions effectively.,negative
+2471,2023-02-25,Employee,Harassment and Discrimination,Employees need more support and encouragement to report discrimination.,negative
+3742,2022-09-13,Supervisor,Stress,Employee recognition programs help reduce stress by boosting morale.,positive
+6113,2021-12-27,Employee,Stress,The company recognizes the need for stress reduction but needs more action.,neutral
+3990,2021-05-09,Supervisor,Stress,Employee well-being initiatives are evolving.,neutral
+7697,2020-11-03,Employee,Work-Life Balance,The company's support for remote work options is ongoing.,neutral
+9177,2020-04-01,Manager,Stress,The company's commitment to employee well-being is reflected in its policies.,positive
+3894,2020-11-12,Supervisor,Departmental level work,Streamlining the contract approval process with Legal is beneficial.,positive
+5582,2022-09-16,Manager,Harassment and Discrimination,We should involve employees in diversity-focused program design.,positive
+3559,2023-09-20,Supervisor,Cleanliness,Shared spaces are clean but not without issues.,neutral
+5941,2022-06-25,Employee,Harassment and Discrimination,Celebrating cultural heritage months showcases our commitment to diversity.,positive
+7355,2020-11-05,Manager,Departmental level work,Transparency in Operations is a topic under consideration.,neutral
+6176,2020-12-07,Supervisor,Departmental level work,Quality control in Operations is a subject of ongoing improvement.,neutral
+7235,2020-04-11,Manager,Harassment and Discrimination,Prompt action is required to address pay disparities related to discrimination.,neutral
+7592,2020-12-27,Manager,Harassment and Discrimination,Diversity and inclusion assessments should be more in-depth.,negative
+5495,2021-04-07,Manager,Harassment and Discrimination,Merit-based promotions should be a higher priority.,neutral
+7825,2021-11-19,Supervisor,Career Development,Personal aspirations may align or diverge from career goals.,neutral
+5552,2022-06-26,Manager,Career Development,Employee success stories inspire others in their career journeys.,positive
+8302,2020-12-07,Supervisor,Work-Life Balance,Work-from-home policies do not support a balanced work-life routine.,negative
+9916,2023-08-17,Manager,Harassment and Discrimination,Employee resource groups play a vital role in promoting diversity.,positive
+2882,2022-03-28,Employee,Departmental level work,"Sales consistently exceeds targets, which is commendable.",positive
+1929,2022-09-22,Manager,Cleanliness,Cleanliness measures are transparent and well-communicated.,positive
+8133,2023-08-01,Supervisor,Departmental level work,Aligning Design with Marketing for a cohesive brand image is a work in progress.,neutral
+6830,2021-01-08,Employee,Cleanliness,Cleanliness issues require a more proactive approach.,negative
+7513,2021-09-18,Supervisor,Stress,Offering mental health days as part of employee benefits is a positive initiative.,positive
+2748,2021-07-12,Manager,Harassment and Discrimination,Awareness campaigns to prevent discrimination need improvement.,negative
+2948,2023-05-12,Supervisor,Harassment and Discrimination,The company's efforts to promote diversity are reflected in our inclusive culture.,positive
+7851,2022-02-16,Employee,Stress,The impact of stress on employee health and productivity is a significant concern.,negative
+2133,2021-05-12,Supervisor,Departmental level work,"Budget priorities are not aligned with strategic goals, causing inefficiencies.",negative
+8195,2022-09-21,Employee,Work-Life Balance,Remote work options have made it easier to handle personal commitments.,positive
+5081,2021-10-24,Employee,Harassment and Discrimination,Inclusivity being a core value of our organization fosters a positive environment.,positive
+4338,2020-04-14,Manager,Cleanliness,Sanitization practices seem inadequate and concerning.,negative
+2814,2020-07-19,Employee,Work-Life Balance,The company recognizes the importance of work-life balance.,neutral
+3832,2022-06-15,Employee,Career Development,Employee success stories in career development are recognized occasionally.,neutral
+3044,2020-07-01,Employee,Stress,High-pressure deadlines and unrealistic expectations create a stressful environment.,negative
+3906,2022-04-02,Supervisor,Cleanliness,Cleanliness doesn't align with health guidelines.,negative
+7800,2023-09-02,Manager,Stress,Regular communication about workplace changes helps reduce stress.,positive
+6113,2020-03-08,Employee,Departmental level work,IT's maintenance of our technology infrastructure is up for evaluation.,neutral
+6120,2023-04-13,Supervisor,Harassment and Discrimination,Offering training on cultural sensitivity is a positive step towards inclusivity.,positive
+8959,2020-07-04,Supervisor,Work-Life Balance,The availability of wellness programs contributes to better work-life balance.,positive
+1342,2022-03-03,Manager,Harassment and Discrimination,Diversity and inclusion surveys should be conducted more frequently.,negative
+6568,2021-09-02,Employee,Cleanliness,Cleanliness in the kitchen and break areas is exceptional.,positive
+2035,2022-02-03,Supervisor,Career Development,Leadership skills development is neglected.,negative
+4925,2023-10-19,Supervisor,Work-Life Balance,The company's understanding of the need for personal time varies.,negative
+7947,2023-07-27,Employee,Career Development,Employee success stories inspire others in their career journeys.,positive
+3581,2023-03-08,Manager,Stress,Offering mental health days as part of employee benefits is a positive initiative.,positive
+5113,2021-05-03,Employee,Career Development,The company's career development approach is a mix of proactive and reactive.,neutral
+6550,2023-01-19,Manager,Harassment and Discrimination,Employee resource groups are doing an excellent job in promoting diversity.,positive
+5625,2021-08-02,Supervisor,Stress,Stress-related challenges vary among employees.,neutral
+5785,2023-03-22,Supervisor,Career Development,Leadership skills development is neglected.,negative
+8106,2021-02-05,Employee,Harassment and Discrimination,The company's commitment to creating a diverse workforce is commendable.,positive
+8738,2020-11-14,Manager,Stress,Providing opportunities for professional development can reduce career-related stress.,positive
+7208,2022-08-18,Supervisor,Harassment and Discrimination,We appreciate the HR department's efforts in handling harassment complaints professionally.,positive
+2916,2021-04-01,Supervisor,Cleanliness,The organization's cleanliness practices meet some health guidelines.,neutral
+2048,2022-07-11,Employee,Work-Life Balance,"Work-life balance initiatives, such as remote work options, are highly appreciated.",positive
+2593,2022-02-07,Supervisor,Career Development,Challenging projects for career growth are hard to come by.,negative
+6129,2023-10-27,Manager,Stress,Lack of flexibility in remote work options adds to employee stress.,negative
+8439,2022-04-28,Employee,Stress,The company's recognition of the importance of self-care is commendable.,positive
+2296,2023-07-22,Manager,Departmental level work,Environmental Health and Safety's safety protocols are being reviewed.,neutral
+8255,2020-09-06,Employee,Career Development,Performance reviews do not adequately address career development.,negative
+3051,2020-07-26,Supervisor,Stress,Employee recognition programs help reduce stress by boosting morale.,positive
+2444,2021-03-06,Employee,Work-Life Balance,Encouragement to use paid time off may not be consistently promoted.,negative
+2576,2020-06-10,Employee,Cleanliness,The workplace is exceptionally clean and well-maintained.,positive
+8314,2021-01-25,Employee,Harassment and Discrimination,There's a lack of transparency in handling discrimination cases.,negative
+3738,2020-01-16,Employee,Career Development,Employee empowerment for career planning is discouraged.,negative
+6957,2020-06-05,Employee,Cleanliness,Regular cleaning routines are a vital part of our work culture.,positive
+1597,2021-08-10,Employee,Departmental level work,The feedback analysis process is disorganized and ineffective.,negative
+9551,2020-08-03,Manager,Stress,"There's a lack of work-life balance, contributing to stress and dissatisfaction.",negative
+9407,2021-12-09,Manager,Departmental level work,"Sales consistently exceeds targets, but forecasting accuracy remains poor.",negative
+9788,2021-05-18,Supervisor,Work-Life Balance,The company's support for remote work options is ongoing.,neutral
+1350,2023-01-04,Supervisor,Departmental level work,Maintaining rigorous quality control in Operations is essential.,positive
+9568,2023-10-12,Supervisor,Career Development,Personal aspirations may align or diverge from career goals.,neutral
+7803,2021-05-28,Manager,Cleanliness,Cleanliness positively impacts the overall work environment.,positive
+8863,2021-09-14,Manager,Stress,The company's response to stress during challenging times needs improvement.,negative
+8186,2022-05-16,Employee,Work-Life Balance,Work-from-home policies do not adequately support work-life balance.,negative
+8259,2022-10-10,Employee,Career Development,The company fosters a culture of continuous learning and growth.,positive

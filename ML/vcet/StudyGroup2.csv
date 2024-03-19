@@ -1,0 +1,1001 @@
+,exploration,adv_courses,Group,Area,Colab,Exp,Resouce,extracurriculars,help_others,confidence,feedback,communication,hours,class
+0,No,No,Yes,Data Analysis,Neutral,8,TextBook,5,5,6,Verbal,Neutral,9,Beginner
+1,Yes,No,Yes,Computer Vision,Highly Collaborative,1,Study Group,3,6,8,Written,Dislike,3,Professional
+2,No,No,Yes,Computer Vision,Independent,2,TextBook,10,5,5,Verbal,Dislike,6,Beginner
+3,No,Yes,Yes,NLP,Independent,6,Peer Discussion,6,9,9,Written,Neutral,7,Advanced
+4,No,No,Yes,Computer Vision,Highly Collaborative,6,TextBook,4,5,1,Written,Enjoy Communicating,6,Beginner
+5,Yes,No,Yes,Data Analysis,Neutral,7,Study Group,10,2,2,Verbal,Neutral,3,Beginner
+6,No,Yes,Yes,NLP,Neutral,3,Study Group,5,10,1,Written,Dislike,10,Beginner
+7,Yes,No,No,Data Analysis,Highly Collaborative,10,TextBook,3,9,9,Written,Neutral,7,Advanced
+8,Yes,No,No,NLP,Highly Collaborative,8,Peer Discussion,3,1,9,Written,Neutral,6,Advanced
+9,Yes,Yes,Yes,NLP,Independent,9,Peer Discussion,1,4,7,Written,Enjoy Communicating,10,Professional
+10,Yes,Yes,Yes,NLP,Independent,9,TextBook,7,7,1,Verbal,Neutral,7,Intermediate
+11,No,No,Yes,Data Analysis,Highly Collaborative,9,TextBook,10,6,8,Written,Dislike,10,Advanced
+12,Yes,Yes,No,Computer Vision,Highly Collaborative,1,Peer Discussion,4,6,6,Written,Enjoy Communicating,7,Beginner
+13,No,Yes,Yes,NLP,Independent,4,Study Group,3,6,10,Verbal,Dislike,4,Intermediate
+14,Yes,No,Yes,NLP,Highly Collaborative,9,TextBook,6,4,7,Verbal,Enjoy Communicating,2,Intermediate
+15,Yes,Yes,No,Data Analysis,Highly Collaborative,4,TextBook,7,3,5,Verbal,Dislike,2,Professional
+16,No,Yes,Yes,Computer Vision,Dislike,2,Peer Discussion,1,6,8,Verbal,Enjoy Communicating,8,Intermediate
+17,Yes,Yes,Yes,NLP,Independent,5,Online,2,4,5,Verbal,Dislike,2,Advanced
+18,Yes,Yes,Yes,NLP,Dislike,10,Study Group,7,8,2,Written,Neutral,6,Professional
+19,Yes,No,Yes,Data Analysis,Neutral,2,Study Group,5,10,4,Written,Enjoy Communicating,7,Professional
+20,Yes,No,No,Deep Learning,Highly Collaborative,7,Study Group,7,7,8,Verbal,Neutral,6,Advanced
+21,Yes,No,No,Computer Vision,Highly Collaborative,1,TextBook,8,6,1,Written,Dislike,10,Intermediate
+22,Yes,Yes,No,Computer Vision,Dislike,8,Peer Discussion,5,9,6,Written,Neutral,5,Professional
+23,No,No,Yes,Deep Learning,Highly Collaborative,9,Study Group,3,3,6,Written,Enjoy Communicating,5,Beginner
+24,Yes,Yes,Yes,Computer Vision,Neutral,9,Online,6,6,5,Written,Neutral,4,Beginner
+25,No,No,No,Deep Learning,Highly Collaborative,8,Online,3,1,3,Written,Enjoy Communicating,6,Beginner
+26,Yes,Yes,Yes,Data Analysis,Dislike,4,Peer Discussion,7,2,6,Verbal,Neutral,8,Advanced
+27,Yes,No,No,NLP,Independent,6,Peer Discussion,6,6,3,Verbal,Enjoy Communicating,5,Beginner
+28,No,Yes,No,Computer Vision,Highly Collaborative,4,Study Group,5,4,6,Verbal,Dislike,4,Advanced
+29,No,Yes,No,Computer Vision,Highly Collaborative,3,Online,2,4,2,Verbal,Neutral,2,Intermediate
+30,Yes,Yes,No,Deep Learning,Highly Collaborative,7,TextBook,7,1,7,Verbal,Enjoy Communicating,6,Intermediate
+31,Yes,No,No,NLP,Highly Collaborative,6,Peer Discussion,9,2,7,Verbal,Dislike,7,Intermediate
+32,Yes,No,No,Data Analysis,Independent,3,Study Group,4,2,7,Verbal,Neutral,9,Intermediate
+33,Yes,Yes,No,Deep Learning,Highly Collaborative,9,TextBook,7,10,6,Written,Enjoy Communicating,10,Advanced
+34,No,Yes,Yes,Data Analysis,Neutral,1,Study Group,5,1,3,Written,Enjoy Communicating,4,Advanced
+35,Yes,Yes,Yes,Deep Learning,Independent,1,Online,7,9,10,Verbal,Neutral,5,Advanced
+36,No,Yes,No,Deep Learning,Dislike,3,Study Group,9,1,6,Written,Enjoy Communicating,5,Intermediate
+37,Yes,Yes,Yes,NLP,Independent,5,Peer Discussion,1,3,1,Written,Neutral,10,Advanced
+38,Yes,No,No,Deep Learning,Neutral,9,TextBook,2,6,6,Written,Dislike,10,Beginner
+39,No,Yes,No,Deep Learning,Independent,6,Study Group,10,10,2,Verbal,Enjoy Communicating,8,Professional
+40,Yes,Yes,Yes,Computer Vision,Dislike,1,Online,7,9,8,Written,Neutral,10,Intermediate
+41,No,Yes,Yes,Deep Learning,Independent,8,Online,10,9,1,Verbal,Dislike,6,Beginner
+42,No,Yes,No,Computer Vision,Neutral,2,Peer Discussion,9,9,4,Written,Dislike,5,Advanced
+43,No,Yes,Yes,NLP,Neutral,10,TextBook,7,4,7,Verbal,Dislike,5,Professional
+44,No,Yes,Yes,Computer Vision,Dislike,1,Study Group,7,8,7,Verbal,Neutral,3,Advanced
+45,Yes,Yes,Yes,NLP,Dislike,2,Online,5,10,10,Written,Dislike,8,Intermediate
+46,No,Yes,No,Computer Vision,Independent,2,Peer Discussion,8,8,2,Verbal,Enjoy Communicating,4,Beginner
+47,No,Yes,No,NLP,Independent,6,Study Group,2,2,6,Verbal,Enjoy Communicating,3,Professional
+48,No,No,No,Deep Learning,Dislike,8,TextBook,8,4,10,Verbal,Enjoy Communicating,10,Advanced
+49,No,Yes,Yes,Deep Learning,Independent,6,TextBook,2,8,5,Written,Dislike,8,Professional
+50,No,No,Yes,Data Analysis,Independent,4,TextBook,6,6,5,Verbal,Dislike,8,Intermediate
+51,No,Yes,Yes,Deep Learning,Neutral,5,Peer Discussion,3,1,7,Written,Enjoy Communicating,4,Intermediate
+52,Yes,Yes,No,Deep Learning,Neutral,5,TextBook,5,8,9,Verbal,Enjoy Communicating,1,Beginner
+53,No,No,Yes,NLP,Dislike,10,TextBook,1,7,4,Verbal,Enjoy Communicating,7,Beginner
+54,No,No,Yes,NLP,Highly Collaborative,2,TextBook,2,5,10,Written,Neutral,8,Professional
+55,Yes,No,Yes,Deep Learning,Neutral,7,Peer Discussion,1,5,3,Verbal,Neutral,4,Beginner
+56,No,Yes,Yes,NLP,Independent,7,Peer Discussion,1,1,7,Verbal,Enjoy Communicating,4,Professional
+57,Yes,No,Yes,Deep Learning,Independent,10,Study Group,9,5,2,Verbal,Dislike,3,Intermediate
+58,No,Yes,No,Data Analysis,Neutral,9,TextBook,10,6,1,Verbal,Enjoy Communicating,1,Beginner
+59,No,Yes,No,Data Analysis,Independent,9,TextBook,6,3,3,Verbal,Dislike,2,Advanced
+60,No,Yes,Yes,NLP,Independent,10,TextBook,2,8,7,Written,Enjoy Communicating,2,Intermediate
+61,No,Yes,Yes,NLP,Dislike,3,Online,3,1,7,Written,Enjoy Communicating,9,Intermediate
+62,Yes,Yes,Yes,NLP,Neutral,9,Peer Discussion,4,10,5,Verbal,Dislike,1,Professional
+63,Yes,Yes,No,NLP,Neutral,4,Peer Discussion,5,10,4,Written,Neutral,5,Intermediate
+64,Yes,Yes,Yes,NLP,Neutral,7,Study Group,2,4,10,Verbal,Dislike,1,Intermediate
+65,No,No,Yes,NLP,Dislike,8,Online,4,9,8,Written,Dislike,7,Intermediate
+66,Yes,No,No,Deep Learning,Highly Collaborative,4,TextBook,2,6,2,Verbal,Neutral,9,Intermediate
+67,Yes,No,No,NLP,Dislike,10,Study Group,8,4,3,Verbal,Dislike,9,Intermediate
+68,Yes,No,No,NLP,Neutral,3,Study Group,8,8,6,Verbal,Neutral,2,Professional
+69,Yes,Yes,No,Data Analysis,Dislike,2,Study Group,8,4,4,Written,Dislike,8,Beginner
+70,No,No,No,Deep Learning,Highly Collaborative,10,TextBook,8,1,7,Verbal,Neutral,7,Professional
+71,No,Yes,Yes,Data Analysis,Neutral,10,Peer Discussion,2,1,6,Written,Neutral,2,Intermediate
+72,Yes,No,No,Computer Vision,Independent,9,Online,5,2,3,Written,Dislike,3,Intermediate
+73,Yes,Yes,No,Data Analysis,Independent,8,Peer Discussion,6,2,5,Written,Dislike,4,Beginner
+74,No,Yes,No,Data Analysis,Independent,7,Online,6,8,5,Verbal,Neutral,9,Beginner
+75,Yes,Yes,Yes,Deep Learning,Neutral,8,Study Group,2,2,7,Written,Dislike,4,Professional
+76,No,Yes,No,NLP,Independent,8,Online,7,10,3,Written,Neutral,3,Intermediate
+77,No,Yes,Yes,Computer Vision,Highly Collaborative,8,Peer Discussion,10,7,10,Written,Neutral,8,Beginner
+78,Yes,No,Yes,NLP,Highly Collaborative,2,Peer Discussion,9,5,6,Written,Enjoy Communicating,10,Advanced
+79,No,Yes,Yes,Deep Learning,Neutral,2,TextBook,8,10,8,Written,Dislike,7,Advanced
+80,Yes,No,Yes,NLP,Neutral,5,TextBook,6,8,10,Written,Neutral,6,Professional
+81,No,No,Yes,Deep Learning,Highly Collaborative,1,Study Group,4,4,1,Verbal,Dislike,5,Advanced
+82,Yes,Yes,No,Computer Vision,Dislike,10,Study Group,7,1,7,Written,Enjoy Communicating,8,Intermediate
+83,No,Yes,No,NLP,Neutral,7,TextBook,5,4,10,Verbal,Neutral,2,Intermediate
+84,No,No,No,NLP,Neutral,10,Online,4,9,1,Written,Dislike,2,Intermediate
+85,Yes,No,Yes,Computer Vision,Neutral,6,Online,3,10,1,Written,Enjoy Communicating,3,Intermediate
+86,Yes,Yes,Yes,Computer Vision,Independent,4,Peer Discussion,10,3,8,Verbal,Enjoy Communicating,9,Beginner
+87,Yes,Yes,No,Deep Learning,Highly Collaborative,8,Peer Discussion,3,6,8,Written,Dislike,4,Advanced
+88,No,Yes,Yes,NLP,Neutral,7,Online,2,3,8,Verbal,Enjoy Communicating,10,Professional
+89,No,Yes,Yes,Computer Vision,Dislike,1,TextBook,4,9,2,Written,Enjoy Communicating,2,Professional
+90,Yes,Yes,No,NLP,Highly Collaborative,10,TextBook,1,5,4,Written,Neutral,7,Advanced
+91,No,Yes,Yes,Deep Learning,Independent,1,TextBook,1,1,10,Verbal,Dislike,3,Advanced
+92,Yes,No,Yes,Data Analysis,Highly Collaborative,5,Study Group,4,7,9,Verbal,Neutral,4,Intermediate
+93,Yes,Yes,Yes,Computer Vision,Neutral,9,Online,9,4,8,Verbal,Dislike,1,Beginner
+94,Yes,Yes,No,Data Analysis,Independent,8,Study Group,6,7,2,Written,Neutral,4,Intermediate
+95,Yes,No,Yes,Computer Vision,Highly Collaborative,10,Study Group,8,2,7,Verbal,Dislike,3,Intermediate
+96,No,Yes,Yes,Data Analysis,Highly Collaborative,2,Online,8,3,4,Verbal,Neutral,8,Professional
+97,Yes,Yes,No,Deep Learning,Independent,2,Peer Discussion,3,7,8,Verbal,Dislike,7,Professional
+98,Yes,Yes,Yes,Data Analysis,Highly Collaborative,10,Online,3,1,10,Written,Neutral,10,Advanced
+99,No,Yes,No,Deep Learning,Neutral,2,Online,10,4,7,Verbal,Enjoy Communicating,2,Beginner
+100,No,Yes,Yes,Computer Vision,Neutral,10,Study Group,9,7,6,Verbal,Dislike,2,Beginner
+101,No,No,No,Data Analysis,Neutral,4,Study Group,1,10,6,Written,Dislike,4,Advanced
+102,No,No,Yes,Data Analysis,Independent,4,Online,5,4,4,Written,Dislike,10,Beginner
+103,No,Yes,No,Deep Learning,Dislike,6,TextBook,6,3,8,Written,Neutral,2,Advanced
+104,No,Yes,Yes,Computer Vision,Neutral,4,Peer Discussion,3,1,8,Written,Dislike,3,Beginner
+105,Yes,Yes,Yes,Data Analysis,Highly Collaborative,6,Peer Discussion,1,3,6,Verbal,Dislike,1,Professional
+106,Yes,No,No,NLP,Highly Collaborative,1,Online,6,5,9,Verbal,Dislike,3,Beginner
+107,Yes,No,No,Deep Learning,Independent,1,TextBook,7,1,3,Verbal,Enjoy Communicating,1,Professional
+108,Yes,No,Yes,NLP,Independent,9,TextBook,2,7,2,Verbal,Enjoy Communicating,2,Beginner
+109,No,Yes,Yes,Data Analysis,Highly Collaborative,4,Study Group,10,2,6,Written,Dislike,9,Professional
+110,No,No,No,Data Analysis,Dislike,10,Peer Discussion,10,1,6,Verbal,Enjoy Communicating,6,Beginner
+111,No,Yes,Yes,Computer Vision,Highly Collaborative,3,TextBook,10,10,3,Written,Dislike,5,Advanced
+112,No,Yes,No,Data Analysis,Highly Collaborative,1,Peer Discussion,5,6,1,Verbal,Enjoy Communicating,4,Professional
+113,Yes,No,Yes,NLP,Dislike,2,Peer Discussion,5,8,5,Verbal,Enjoy Communicating,8,Intermediate
+114,Yes,Yes,Yes,Data Analysis,Dislike,9,Online,7,8,10,Written,Neutral,10,Professional
+115,No,No,Yes,Deep Learning,Highly Collaborative,3,TextBook,6,7,9,Verbal,Neutral,4,Advanced
+116,Yes,Yes,Yes,Computer Vision,Dislike,8,Peer Discussion,3,8,9,Verbal,Enjoy Communicating,6,Intermediate
+117,No,No,Yes,Deep Learning,Dislike,6,Peer Discussion,6,6,5,Written,Neutral,4,Professional
+118,No,Yes,Yes,Data Analysis,Independent,8,Study Group,2,2,8,Written,Neutral,8,Intermediate
+119,No,No,Yes,Computer Vision,Independent,2,Study Group,8,10,7,Verbal,Enjoy Communicating,10,Beginner
+120,Yes,No,Yes,NLP,Neutral,5,Online,10,2,1,Verbal,Dislike,4,Professional
+121,Yes,No,Yes,NLP,Independent,9,Study Group,10,5,5,Verbal,Neutral,5,Advanced
+122,No,No,Yes,Data Analysis,Neutral,3,Study Group,8,2,7,Verbal,Neutral,4,Beginner
+123,Yes,Yes,No,Data Analysis,Neutral,3,Study Group,8,2,5,Verbal,Neutral,9,Intermediate
+124,Yes,No,No,Deep Learning,Neutral,8,TextBook,7,10,7,Written,Neutral,5,Advanced
+125,Yes,Yes,No,Computer Vision,Neutral,10,Study Group,7,8,3,Written,Neutral,9,Advanced
+126,No,No,Yes,Computer Vision,Highly Collaborative,1,TextBook,4,7,2,Written,Dislike,10,Beginner
+127,Yes,Yes,No,Computer Vision,Highly Collaborative,8,Peer Discussion,6,2,2,Written,Neutral,4,Beginner
+128,Yes,Yes,Yes,Data Analysis,Neutral,10,Peer Discussion,10,2,8,Verbal,Dislike,10,Intermediate
+129,Yes,No,Yes,Deep Learning,Highly Collaborative,8,Online,6,5,8,Verbal,Dislike,3,Beginner
+130,No,No,Yes,Data Analysis,Highly Collaborative,9,TextBook,6,3,7,Verbal,Enjoy Communicating,2,Advanced
+131,No,No,No,NLP,Neutral,10,Study Group,3,8,8,Written,Enjoy Communicating,8,Advanced
+132,Yes,No,No,Deep Learning,Highly Collaborative,9,Peer Discussion,7,2,8,Verbal,Dislike,6,Beginner
+133,No,Yes,Yes,Computer Vision,Neutral,4,Peer Discussion,1,8,7,Verbal,Neutral,5,Intermediate
+134,Yes,No,Yes,NLP,Dislike,3,Peer Discussion,8,8,10,Verbal,Neutral,2,Intermediate
+135,Yes,No,No,Computer Vision,Independent,3,Peer Discussion,7,1,6,Written,Dislike,4,Advanced
+136,No,Yes,No,NLP,Neutral,5,Peer Discussion,6,6,10,Verbal,Enjoy Communicating,5,Intermediate
+137,Yes,Yes,No,Computer Vision,Neutral,1,TextBook,5,9,3,Written,Enjoy Communicating,7,Beginner
+138,No,No,No,Deep Learning,Neutral,7,Peer Discussion,10,4,8,Written,Dislike,6,Advanced
+139,No,Yes,No,NLP,Neutral,1,TextBook,7,4,10,Written,Dislike,10,Professional
+140,Yes,Yes,Yes,Computer Vision,Highly Collaborative,2,TextBook,4,7,8,Verbal,Enjoy Communicating,4,Advanced
+141,No,Yes,Yes,Computer Vision,Neutral,6,Study Group,3,8,3,Verbal,Neutral,7,Intermediate
+142,No,Yes,No,NLP,Neutral,6,Peer Discussion,3,7,9,Written,Enjoy Communicating,5,Advanced
+143,No,No,Yes,NLP,Dislike,1,TextBook,10,3,3,Written,Enjoy Communicating,4,Advanced
+144,Yes,Yes,Yes,Data Analysis,Highly Collaborative,1,Study Group,2,8,8,Verbal,Enjoy Communicating,7,Professional
+145,No,Yes,Yes,NLP,Neutral,10,TextBook,7,3,4,Verbal,Neutral,9,Beginner
+146,No,No,No,Computer Vision,Dislike,5,Online,10,1,6,Verbal,Enjoy Communicating,9,Intermediate
+147,Yes,No,No,Data Analysis,Dislike,4,Online,6,8,6,Written,Neutral,5,Beginner
+148,No,No,Yes,Data Analysis,Highly Collaborative,3,TextBook,9,1,5,Verbal,Neutral,3,Beginner
+149,No,No,Yes,NLP,Independent,8,Study Group,1,5,6,Verbal,Dislike,4,Intermediate
+150,No,Yes,Yes,Computer Vision,Dislike,2,Study Group,1,2,10,Written,Neutral,4,Professional
+151,No,No,Yes,Deep Learning,Highly Collaborative,7,Study Group,2,5,6,Verbal,Dislike,7,Advanced
+152,Yes,Yes,No,NLP,Dislike,3,TextBook,10,8,9,Verbal,Neutral,9,Advanced
+153,No,No,No,Deep Learning,Independent,3,TextBook,6,10,9,Verbal,Enjoy Communicating,7,Intermediate
+154,Yes,No,No,Data Analysis,Dislike,4,Study Group,5,4,2,Verbal,Enjoy Communicating,7,Intermediate
+155,No,No,No,NLP,Neutral,1,Study Group,2,8,7,Verbal,Neutral,7,Advanced
+156,Yes,No,No,NLP,Dislike,5,TextBook,1,6,5,Written,Dislike,5,Professional
+157,No,Yes,No,Computer Vision,Highly Collaborative,1,TextBook,6,5,1,Verbal,Neutral,9,Intermediate
+158,No,Yes,No,Deep Learning,Independent,7,Online,5,2,1,Written,Enjoy Communicating,6,Beginner
+159,Yes,No,Yes,Deep Learning,Independent,8,Study Group,6,4,8,Written,Enjoy Communicating,8,Beginner
+160,No,Yes,Yes,Deep Learning,Highly Collaborative,9,Study Group,6,2,7,Written,Enjoy Communicating,8,Professional
+161,Yes,Yes,No,NLP,Dislike,3,Study Group,1,4,8,Written,Enjoy Communicating,6,Intermediate
+162,No,No,Yes,NLP,Dislike,5,Peer Discussion,3,7,9,Written,Dislike,8,Advanced
+163,No,No,No,NLP,Dislike,1,Online,5,7,5,Verbal,Dislike,2,Professional
+164,No,No,No,Data Analysis,Independent,1,Peer Discussion,6,1,2,Written,Enjoy Communicating,1,Intermediate
+165,Yes,No,Yes,NLP,Neutral,4,Online,6,5,8,Verbal,Enjoy Communicating,8,Advanced
+166,Yes,Yes,No,Computer Vision,Highly Collaborative,2,Peer Discussion,2,7,7,Verbal,Enjoy Communicating,2,Advanced
+167,No,No,No,Data Analysis,Neutral,4,TextBook,3,4,1,Verbal,Neutral,1,Intermediate
+168,No,No,Yes,Data Analysis,Independent,5,Study Group,9,4,7,Verbal,Neutral,9,Beginner
+169,No,No,Yes,Data Analysis,Neutral,7,Study Group,9,8,3,Verbal,Neutral,6,Beginner
+170,Yes,Yes,No,Data Analysis,Independent,5,Online,2,6,5,Verbal,Enjoy Communicating,1,Professional
+171,Yes,Yes,Yes,Data Analysis,Highly Collaborative,9,Online,5,8,6,Written,Enjoy Communicating,3,Intermediate
+172,Yes,Yes,Yes,Computer Vision,Independent,4,Study Group,9,6,2,Verbal,Enjoy Communicating,9,Beginner
+173,Yes,Yes,No,NLP,Independent,3,Online,8,6,6,Verbal,Enjoy Communicating,3,Advanced
+174,No,No,Yes,Data Analysis,Neutral,7,Peer Discussion,3,8,7,Written,Dislike,1,Intermediate
+175,No,Yes,Yes,Deep Learning,Neutral,7,TextBook,10,7,3,Verbal,Dislike,9,Beginner
+176,No,Yes,No,NLP,Independent,7,Online,10,7,2,Verbal,Enjoy Communicating,4,Professional
+177,Yes,Yes,Yes,NLP,Highly Collaborative,7,Study Group,3,10,7,Written,Dislike,9,Professional
+178,Yes,No,Yes,Data Analysis,Neutral,1,TextBook,6,7,1,Written,Enjoy Communicating,7,Advanced
+179,Yes,Yes,Yes,Computer Vision,Dislike,6,Peer Discussion,4,8,9,Verbal,Enjoy Communicating,8,Beginner
+180,No,No,Yes,NLP,Independent,2,TextBook,7,1,4,Verbal,Dislike,4,Advanced
+181,No,Yes,No,Deep Learning,Highly Collaborative,6,TextBook,9,1,8,Written,Neutral,9,Beginner
+182,No,No,No,Deep Learning,Dislike,3,Peer Discussion,10,6,3,Written,Dislike,5,Professional
+183,No,Yes,No,NLP,Neutral,6,Online,4,6,3,Verbal,Neutral,10,Intermediate
+184,No,No,No,Computer Vision,Neutral,6,Peer Discussion,2,2,2,Written,Dislike,6,Intermediate
+185,No,Yes,Yes,Data Analysis,Neutral,10,Peer Discussion,9,8,2,Written,Dislike,2,Advanced
+186,No,No,No,NLP,Dislike,6,TextBook,6,3,4,Verbal,Neutral,9,Beginner
+187,No,Yes,No,Deep Learning,Dislike,1,Study Group,5,1,4,Written,Neutral,9,Intermediate
+188,No,No,Yes,Data Analysis,Independent,7,Online,2,9,1,Written,Enjoy Communicating,4,Advanced
+189,Yes,Yes,No,Data Analysis,Neutral,8,Online,2,7,7,Written,Enjoy Communicating,7,Intermediate
+190,No,Yes,No,Deep Learning,Dislike,7,Online,1,3,2,Written,Neutral,5,Advanced
+191,Yes,Yes,No,Data Analysis,Independent,3,TextBook,5,9,9,Verbal,Dislike,7,Advanced
+192,Yes,Yes,Yes,Deep Learning,Independent,8,TextBook,6,1,4,Written,Enjoy Communicating,10,Beginner
+193,No,No,No,Deep Learning,Highly Collaborative,3,Peer Discussion,6,8,10,Written,Neutral,4,Professional
+194,No,No,No,Data Analysis,Dislike,1,TextBook,4,8,8,Verbal,Dislike,9,Advanced
+195,Yes,Yes,Yes,NLP,Dislike,6,TextBook,7,8,4,Written,Enjoy Communicating,2,Professional
+196,No,No,Yes,Computer Vision,Highly Collaborative,10,TextBook,7,1,10,Verbal,Enjoy Communicating,1,Advanced
+197,No,No,Yes,NLP,Highly Collaborative,8,Online,1,4,4,Verbal,Enjoy Communicating,6,Beginner
+198,No,No,No,NLP,Independent,6,Peer Discussion,3,7,8,Verbal,Neutral,9,Professional
+199,Yes,No,Yes,NLP,Dislike,10,Online,1,2,5,Written,Enjoy Communicating,6,Beginner
+200,No,No,Yes,Computer Vision,Neutral,1,Online,2,7,10,Written,Neutral,6,Beginner
+201,Yes,No,Yes,Computer Vision,Independent,10,Online,6,3,4,Written,Enjoy Communicating,1,Advanced
+202,No,Yes,No,Deep Learning,Dislike,2,Study Group,10,10,9,Written,Enjoy Communicating,1,Intermediate
+203,Yes,Yes,Yes,Data Analysis,Highly Collaborative,7,Peer Discussion,3,4,8,Verbal,Enjoy Communicating,10,Professional
+204,Yes,No,Yes,NLP,Neutral,8,Study Group,9,3,5,Written,Neutral,9,Professional
+205,No,No,Yes,Data Analysis,Independent,4,Peer Discussion,3,4,10,Verbal,Enjoy Communicating,9,Intermediate
+206,Yes,Yes,No,Deep Learning,Independent,10,Online,9,4,3,Verbal,Enjoy Communicating,8,Advanced
+207,Yes,No,No,Deep Learning,Highly Collaborative,10,Study Group,7,2,9,Written,Dislike,4,Intermediate
+208,Yes,Yes,No,Data Analysis,Dislike,1,TextBook,1,10,4,Written,Dislike,5,Advanced
+209,Yes,No,Yes,Computer Vision,Neutral,9,TextBook,4,4,2,Verbal,Enjoy Communicating,5,Intermediate
+210,No,Yes,Yes,Data Analysis,Neutral,9,Study Group,2,4,2,Written,Neutral,3,Advanced
+211,No,Yes,Yes,NLP,Neutral,10,Online,7,10,3,Written,Dislike,10,Intermediate
+212,Yes,No,Yes,Data Analysis,Independent,9,Online,3,4,1,Verbal,Enjoy Communicating,10,Professional
+213,Yes,No,Yes,Deep Learning,Highly Collaborative,1,Online,5,9,3,Written,Dislike,10,Beginner
+214,Yes,No,Yes,Deep Learning,Highly Collaborative,3,Peer Discussion,8,3,8,Written,Neutral,9,Beginner
+215,No,No,No,Deep Learning,Highly Collaborative,7,Peer Discussion,7,9,3,Verbal,Neutral,2,Beginner
+216,Yes,Yes,No,Computer Vision,Neutral,7,Online,6,3,3,Verbal,Dislike,4,Professional
+217,No,Yes,No,Deep Learning,Neutral,6,TextBook,7,1,2,Verbal,Neutral,7,Professional
+218,Yes,Yes,No,Data Analysis,Neutral,6,Online,3,10,3,Verbal,Dislike,2,Advanced
+219,Yes,Yes,No,Deep Learning,Highly Collaborative,10,Online,5,3,6,Verbal,Neutral,6,Intermediate
+220,No,Yes,Yes,Deep Learning,Independent,7,TextBook,3,1,8,Verbal,Neutral,9,Professional
+221,Yes,No,Yes,NLP,Highly Collaborative,4,Online,6,9,4,Written,Enjoy Communicating,5,Advanced
+222,Yes,Yes,No,Computer Vision,Neutral,10,Study Group,1,2,4,Verbal,Neutral,10,Professional
+223,No,Yes,No,NLP,Independent,4,TextBook,10,8,6,Written,Dislike,4,Professional
+224,Yes,No,Yes,Data Analysis,Highly Collaborative,5,Study Group,8,1,3,Written,Neutral,8,Advanced
+225,No,No,Yes,Deep Learning,Highly Collaborative,9,Online,6,5,6,Written,Enjoy Communicating,5,Professional
+226,No,No,No,NLP,Dislike,8,Peer Discussion,4,8,10,Written,Enjoy Communicating,1,Intermediate
+227,No,No,No,Data Analysis,Highly Collaborative,7,TextBook,2,9,8,Written,Enjoy Communicating,8,Advanced
+228,Yes,No,Yes,Deep Learning,Highly Collaborative,9,Peer Discussion,9,7,1,Written,Neutral,5,Professional
+229,No,No,No,Deep Learning,Dislike,4,Peer Discussion,9,3,7,Verbal,Dislike,8,Beginner
+230,Yes,No,No,Computer Vision,Highly Collaborative,1,Peer Discussion,8,7,7,Written,Dislike,7,Intermediate
+231,Yes,Yes,Yes,Deep Learning,Independent,9,Study Group,7,8,2,Written,Neutral,2,Advanced
+232,Yes,Yes,Yes,Data Analysis,Neutral,1,TextBook,8,5,8,Written,Enjoy Communicating,8,Beginner
+233,No,No,Yes,Computer Vision,Neutral,5,Study Group,4,6,1,Written,Enjoy Communicating,3,Intermediate
+234,No,No,No,Deep Learning,Dislike,6,Peer Discussion,9,5,5,Verbal,Dislike,1,Advanced
+235,No,Yes,Yes,NLP,Independent,1,Peer Discussion,7,5,9,Verbal,Enjoy Communicating,6,Intermediate
+236,No,No,Yes,Data Analysis,Neutral,10,Study Group,10,5,9,Verbal,Enjoy Communicating,9,Professional
+237,No,No,Yes,Computer Vision,Highly Collaborative,5,Study Group,3,1,10,Written,Enjoy Communicating,10,Beginner
+238,Yes,Yes,Yes,NLP,Dislike,5,Peer Discussion,6,4,1,Verbal,Dislike,6,Intermediate
+239,Yes,Yes,No,NLP,Highly Collaborative,4,Online,2,10,7,Written,Enjoy Communicating,9,Intermediate
+240,Yes,No,Yes,Deep Learning,Neutral,7,Online,10,4,9,Verbal,Dislike,9,Professional
+241,No,Yes,Yes,Deep Learning,Neutral,8,Online,7,7,5,Written,Dislike,8,Beginner
+242,No,No,No,NLP,Neutral,6,TextBook,3,5,2,Written,Enjoy Communicating,2,Intermediate
+243,Yes,No,Yes,NLP,Dislike,9,TextBook,5,4,2,Verbal,Enjoy Communicating,3,Advanced
+244,Yes,Yes,No,Deep Learning,Independent,5,Study Group,4,1,9,Written,Dislike,1,Beginner
+245,No,No,No,Data Analysis,Dislike,9,Online,8,9,6,Verbal,Neutral,4,Professional
+246,No,Yes,Yes,Computer Vision,Dislike,2,Study Group,2,8,10,Verbal,Dislike,4,Professional
+247,Yes,No,Yes,Data Analysis,Independent,10,TextBook,1,4,7,Written,Dislike,5,Intermediate
+248,Yes,No,No,Data Analysis,Independent,4,TextBook,1,5,10,Verbal,Neutral,1,Advanced
+249,Yes,No,No,Data Analysis,Highly Collaborative,1,Study Group,5,3,2,Verbal,Enjoy Communicating,8,Advanced
+250,No,Yes,No,Data Analysis,Neutral,7,Study Group,1,1,7,Written,Enjoy Communicating,1,Advanced
+251,No,No,No,Computer Vision,Highly Collaborative,6,TextBook,8,7,9,Verbal,Dislike,5,Advanced
+252,No,Yes,Yes,Deep Learning,Dislike,6,TextBook,2,2,6,Verbal,Neutral,4,Beginner
+253,No,Yes,Yes,NLP,Dislike,9,Peer Discussion,9,5,4,Verbal,Enjoy Communicating,5,Professional
+254,Yes,Yes,No,Computer Vision,Dislike,9,Online,5,7,2,Verbal,Enjoy Communicating,7,Advanced
+255,No,Yes,Yes,Computer Vision,Dislike,2,Study Group,9,10,1,Written,Dislike,4,Professional
+256,No,No,No,Computer Vision,Dislike,7,TextBook,1,4,8,Verbal,Dislike,3,Advanced
+257,Yes,Yes,No,Data Analysis,Dislike,6,Peer Discussion,7,5,10,Verbal,Dislike,7,Advanced
+258,Yes,Yes,Yes,Computer Vision,Dislike,3,Online,9,4,10,Verbal,Enjoy Communicating,3,Intermediate
+259,No,Yes,Yes,Computer Vision,Highly Collaborative,5,Online,4,10,1,Written,Neutral,1,Intermediate
+260,No,Yes,No,Computer Vision,Neutral,5,Online,9,5,3,Written,Dislike,4,Advanced
+261,No,Yes,Yes,Data Analysis,Neutral,1,TextBook,9,6,2,Verbal,Dislike,6,Advanced
+262,No,Yes,No,Computer Vision,Independent,6,TextBook,5,2,9,Written,Dislike,2,Advanced
+263,No,Yes,No,Computer Vision,Neutral,6,TextBook,5,3,9,Written,Enjoy Communicating,5,Beginner
+264,No,Yes,Yes,Data Analysis,Highly Collaborative,1,TextBook,9,10,6,Written,Dislike,3,Beginner
+265,No,No,No,Deep Learning,Independent,6,Peer Discussion,9,9,2,Verbal,Enjoy Communicating,4,Intermediate
+266,Yes,Yes,Yes,Computer Vision,Neutral,7,Study Group,7,2,6,Verbal,Enjoy Communicating,8,Advanced
+267,Yes,Yes,No,Computer Vision,Neutral,5,Peer Discussion,9,6,2,Written,Neutral,7,Intermediate
+268,Yes,Yes,No,Data Analysis,Highly Collaborative,2,Peer Discussion,8,5,10,Written,Dislike,7,Intermediate
+269,Yes,No,No,Computer Vision,Neutral,2,Peer Discussion,5,7,7,Written,Enjoy Communicating,7,Intermediate
+270,Yes,No,No,Computer Vision,Neutral,10,Online,5,8,2,Verbal,Enjoy Communicating,6,Beginner
+271,No,Yes,Yes,Data Analysis,Dislike,4,TextBook,7,3,3,Verbal,Neutral,7,Beginner
+272,Yes,No,No,Computer Vision,Highly Collaborative,10,Study Group,1,7,4,Written,Neutral,4,Professional
+273,No,No,Yes,Data Analysis,Dislike,5,Peer Discussion,3,6,4,Written,Neutral,10,Advanced
+274,Yes,Yes,Yes,Computer Vision,Highly Collaborative,1,TextBook,10,5,2,Verbal,Neutral,4,Advanced
+275,Yes,No,No,NLP,Neutral,2,TextBook,6,7,10,Written,Neutral,9,Beginner
+276,Yes,Yes,No,Computer Vision,Highly Collaborative,8,Study Group,7,6,8,Verbal,Enjoy Communicating,8,Professional
+277,No,No,No,Data Analysis,Dislike,1,TextBook,5,4,1,Verbal,Dislike,3,Beginner
+278,Yes,Yes,No,Computer Vision,Dislike,2,TextBook,3,5,10,Verbal,Dislike,3,Beginner
+279,No,No,Yes,Data Analysis,Neutral,1,Online,4,2,6,Verbal,Enjoy Communicating,1,Advanced
+280,Yes,Yes,Yes,Deep Learning,Highly Collaborative,3,Peer Discussion,2,1,2,Written,Enjoy Communicating,3,Beginner
+281,Yes,Yes,No,NLP,Highly Collaborative,3,Peer Discussion,5,9,3,Verbal,Enjoy Communicating,1,Advanced
+282,Yes,Yes,No,Data Analysis,Independent,9,Study Group,10,2,7,Verbal,Neutral,6,Advanced
+283,No,No,No,Computer Vision,Neutral,10,Peer Discussion,1,7,2,Written,Dislike,1,Advanced
+284,Yes,Yes,No,Data Analysis,Dislike,5,Study Group,9,9,9,Written,Neutral,3,Intermediate
+285,No,Yes,Yes,Deep Learning,Dislike,5,Peer Discussion,4,3,3,Written,Dislike,6,Intermediate
+286,Yes,No,No,Data Analysis,Independent,7,Study Group,7,2,9,Verbal,Dislike,7,Intermediate
+287,Yes,No,Yes,Computer Vision,Highly Collaborative,2,Study Group,1,8,10,Verbal,Neutral,7,Beginner
+288,No,Yes,No,Computer Vision,Neutral,3,Online,8,8,4,Verbal,Neutral,4,Advanced
+289,No,No,No,NLP,Highly Collaborative,10,Study Group,8,8,8,Written,Dislike,2,Intermediate
+290,Yes,Yes,No,Computer Vision,Independent,2,TextBook,3,4,9,Written,Enjoy Communicating,7,Beginner
+291,No,Yes,No,NLP,Neutral,7,TextBook,7,3,1,Verbal,Enjoy Communicating,7,Intermediate
+292,Yes,Yes,No,Data Analysis,Independent,9,Online,10,7,5,Verbal,Dislike,3,Intermediate
+293,No,Yes,No,Deep Learning,Independent,4,Study Group,3,2,3,Verbal,Neutral,2,Beginner
+294,No,No,Yes,NLP,Neutral,5,Study Group,6,1,7,Verbal,Enjoy Communicating,8,Professional
+295,Yes,No,Yes,Deep Learning,Dislike,8,Study Group,3,4,3,Verbal,Enjoy Communicating,1,Advanced
+296,Yes,No,No,Data Analysis,Independent,6,TextBook,7,7,6,Written,Enjoy Communicating,10,Intermediate
+297,Yes,Yes,No,Deep Learning,Neutral,9,Online,6,6,1,Written,Dislike,6,Professional
+298,No,Yes,No,Deep Learning,Highly Collaborative,5,Online,7,2,5,Written,Enjoy Communicating,5,Intermediate
+299,No,Yes,No,Deep Learning,Highly Collaborative,3,TextBook,3,8,7,Written,Dislike,8,Beginner
+300,Yes,Yes,Yes,Deep Learning,Neutral,9,Peer Discussion,3,8,3,Written,Neutral,1,Beginner
+301,Yes,Yes,Yes,Data Analysis,Neutral,1,Peer Discussion,9,10,5,Verbal,Dislike,6,Intermediate
+302,No,Yes,No,Deep Learning,Highly Collaborative,7,Online,10,3,4,Verbal,Neutral,8,Professional
+303,Yes,Yes,Yes,Computer Vision,Highly Collaborative,5,TextBook,7,2,2,Verbal,Enjoy Communicating,8,Professional
+304,Yes,Yes,Yes,NLP,Neutral,1,Peer Discussion,7,10,3,Verbal,Dislike,6,Professional
+305,No,No,No,Computer Vision,Highly Collaborative,8,Online,5,9,6,Written,Neutral,4,Advanced
+306,No,No,No,Deep Learning,Dislike,7,Peer Discussion,8,5,4,Written,Enjoy Communicating,9,Intermediate
+307,Yes,No,No,Deep Learning,Highly Collaborative,9,Study Group,10,8,3,Written,Dislike,2,Intermediate
+308,Yes,No,Yes,Computer Vision,Neutral,10,TextBook,4,3,2,Verbal,Enjoy Communicating,7,Intermediate
+309,No,No,No,Data Analysis,Dislike,6,Peer Discussion,3,9,4,Verbal,Dislike,3,Advanced
+310,Yes,Yes,No,NLP,Dislike,6,Study Group,3,3,5,Written,Enjoy Communicating,1,Advanced
+311,No,Yes,Yes,Data Analysis,Independent,2,Study Group,2,3,10,Written,Neutral,8,Professional
+312,No,No,Yes,NLP,Neutral,2,Peer Discussion,6,9,10,Verbal,Dislike,10,Professional
+313,Yes,No,No,Data Analysis,Independent,7,Study Group,5,7,6,Written,Dislike,8,Intermediate
+314,Yes,Yes,Yes,Data Analysis,Neutral,9,Study Group,1,5,5,Verbal,Neutral,9,Advanced
+315,No,No,No,Computer Vision,Highly Collaborative,8,Study Group,6,4,6,Verbal,Neutral,8,Intermediate
+316,No,Yes,No,Deep Learning,Dislike,9,Online,5,1,7,Written,Enjoy Communicating,10,Advanced
+317,Yes,Yes,No,NLP,Highly Collaborative,8,Peer Discussion,3,2,3,Written,Dislike,9,Intermediate
+318,No,No,Yes,Data Analysis,Highly Collaborative,6,Study Group,3,6,6,Verbal,Dislike,8,Beginner
+319,Yes,No,Yes,Computer Vision,Highly Collaborative,1,Peer Discussion,1,8,3,Verbal,Neutral,1,Professional
+320,No,No,Yes,Deep Learning,Neutral,5,Online,2,3,2,Verbal,Dislike,8,Intermediate
+321,No,No,No,NLP,Neutral,10,Peer Discussion,6,4,2,Written,Neutral,2,Advanced
+322,No,Yes,Yes,Deep Learning,Highly Collaborative,4,Online,6,1,4,Written,Neutral,8,Professional
+323,No,Yes,Yes,Deep Learning,Dislike,3,TextBook,9,6,4,Written,Dislike,9,Professional
+324,No,No,No,Deep Learning,Dislike,8,TextBook,10,3,5,Written,Dislike,1,Beginner
+325,Yes,Yes,Yes,Computer Vision,Neutral,9,Online,7,8,3,Written,Dislike,5,Beginner
+326,No,No,No,Deep Learning,Independent,8,TextBook,10,8,3,Written,Neutral,4,Advanced
+327,Yes,Yes,Yes,NLP,Highly Collaborative,3,Online,9,3,1,Verbal,Neutral,4,Beginner
+328,Yes,Yes,No,Computer Vision,Highly Collaborative,5,Online,7,8,3,Verbal,Neutral,5,Professional
+329,Yes,Yes,No,Deep Learning,Neutral,1,TextBook,2,1,9,Verbal,Dislike,7,Advanced
+330,No,Yes,No,NLP,Dislike,1,Online,5,8,5,Written,Neutral,5,Intermediate
+331,Yes,No,Yes,Deep Learning,Neutral,2,Peer Discussion,4,7,10,Written,Enjoy Communicating,1,Beginner
+332,No,Yes,No,NLP,Neutral,10,TextBook,4,8,5,Written,Dislike,8,Beginner
+333,No,Yes,Yes,Computer Vision,Independent,6,Online,7,2,5,Written,Dislike,3,Intermediate
+334,Yes,No,No,Data Analysis,Dislike,2,TextBook,8,5,5,Written,Enjoy Communicating,6,Professional
+335,No,Yes,No,Data Analysis,Neutral,8,Online,3,4,3,Written,Neutral,9,Professional
+336,Yes,No,Yes,Computer Vision,Dislike,7,Study Group,3,4,1,Verbal,Neutral,10,Advanced
+337,No,Yes,Yes,Deep Learning,Dislike,8,Study Group,8,2,5,Verbal,Neutral,3,Professional
+338,Yes,No,Yes,Data Analysis,Highly Collaborative,3,TextBook,3,3,3,Written,Dislike,7,Intermediate
+339,Yes,Yes,No,NLP,Neutral,7,Peer Discussion,2,4,3,Verbal,Neutral,5,Intermediate
+340,No,Yes,No,Deep Learning,Highly Collaborative,10,TextBook,2,6,8,Written,Neutral,7,Advanced
+341,Yes,Yes,Yes,Data Analysis,Neutral,2,Peer Discussion,7,2,3,Written,Neutral,8,Beginner
+342,Yes,Yes,No,Computer Vision,Highly Collaborative,10,Online,4,8,4,Written,Dislike,9,Professional
+343,No,No,No,NLP,Highly Collaborative,6,TextBook,4,4,9,Verbal,Enjoy Communicating,2,Professional
+344,No,Yes,Yes,Deep Learning,Dislike,4,Peer Discussion,8,8,5,Verbal,Enjoy Communicating,3,Advanced
+345,No,Yes,No,Computer Vision,Neutral,1,Online,6,3,2,Verbal,Dislike,5,Advanced
+346,Yes,Yes,No,Computer Vision,Highly Collaborative,1,TextBook,5,3,7,Written,Dislike,7,Advanced
+347,Yes,Yes,No,NLP,Independent,1,Online,9,1,10,Verbal,Neutral,1,Professional
+348,Yes,No,No,Deep Learning,Independent,9,TextBook,2,3,10,Verbal,Dislike,7,Professional
+349,Yes,Yes,No,Computer Vision,Highly Collaborative,1,Study Group,8,2,5,Verbal,Neutral,9,Advanced
+350,No,Yes,Yes,Computer Vision,Dislike,4,TextBook,8,3,1,Verbal,Dislike,3,Professional
+351,No,No,No,Data Analysis,Neutral,3,Online,8,4,3,Written,Enjoy Communicating,7,Beginner
+352,Yes,Yes,No,Computer Vision,Neutral,1,Study Group,3,6,1,Written,Enjoy Communicating,3,Beginner
+353,Yes,Yes,Yes,Data Analysis,Dislike,10,Online,10,5,5,Verbal,Neutral,8,Professional
+354,Yes,Yes,No,Computer Vision,Neutral,4,Study Group,4,6,9,Written,Dislike,4,Advanced
+355,Yes,No,No,Computer Vision,Dislike,6,TextBook,3,8,2,Written,Neutral,6,Beginner
+356,Yes,Yes,Yes,NLP,Dislike,4,Online,10,4,8,Written,Dislike,2,Intermediate
+357,No,No,Yes,Data Analysis,Dislike,3,Online,1,9,1,Written,Neutral,10,Professional
+358,Yes,Yes,Yes,Computer Vision,Dislike,3,Study Group,9,10,1,Written,Dislike,1,Advanced
+359,Yes,Yes,No,Data Analysis,Neutral,9,Online,9,7,10,Verbal,Dislike,9,Professional
+360,No,Yes,No,Deep Learning,Neutral,8,Online,3,7,9,Written,Dislike,9,Professional
+361,No,Yes,Yes,NLP,Dislike,4,Peer Discussion,3,3,7,Written,Neutral,5,Professional
+362,Yes,Yes,No,Data Analysis,Dislike,6,Peer Discussion,2,4,5,Written,Enjoy Communicating,7,Intermediate
+363,No,No,Yes,Deep Learning,Highly Collaborative,7,TextBook,8,7,4,Written,Enjoy Communicating,5,Professional
+364,Yes,No,Yes,Data Analysis,Highly Collaborative,3,TextBook,7,5,10,Written,Dislike,3,Advanced
+365,No,No,No,NLP,Neutral,3,TextBook,1,5,2,Verbal,Dislike,5,Beginner
+366,No,Yes,No,Deep Learning,Neutral,2,Peer Discussion,8,3,7,Verbal,Dislike,9,Advanced
+367,Yes,No,Yes,Data Analysis,Dislike,4,TextBook,8,1,3,Written,Dislike,1,Intermediate
+368,No,No,Yes,NLP,Dislike,6,Study Group,1,1,3,Verbal,Dislike,5,Advanced
+369,No,Yes,Yes,NLP,Highly Collaborative,6,Study Group,9,5,10,Written,Enjoy Communicating,10,Professional
+370,Yes,No,Yes,Deep Learning,Dislike,9,TextBook,8,2,8,Verbal,Enjoy Communicating,7,Beginner
+371,Yes,Yes,No,Data Analysis,Independent,7,TextBook,10,5,2,Written,Enjoy Communicating,8,Beginner
+372,Yes,No,Yes,NLP,Neutral,4,Peer Discussion,10,9,6,Verbal,Dislike,8,Advanced
+373,No,No,Yes,Computer Vision,Independent,10,Online,10,10,9,Verbal,Dislike,7,Intermediate
+374,Yes,No,No,Data Analysis,Dislike,7,Study Group,6,6,10,Written,Dislike,3,Professional
+375,No,No,Yes,Data Analysis,Neutral,6,Peer Discussion,5,6,5,Verbal,Dislike,6,Intermediate
+376,No,Yes,Yes,Deep Learning,Independent,8,Peer Discussion,1,8,4,Verbal,Enjoy Communicating,7,Professional
+377,No,Yes,Yes,NLP,Independent,4,TextBook,9,9,6,Verbal,Dislike,5,Intermediate
+378,Yes,No,No,Data Analysis,Highly Collaborative,4,Peer Discussion,9,8,3,Verbal,Neutral,4,Intermediate
+379,No,Yes,No,Deep Learning,Neutral,5,Online,6,10,5,Written,Enjoy Communicating,3,Professional
+380,No,Yes,Yes,Computer Vision,Dislike,4,TextBook,4,5,5,Written,Enjoy Communicating,9,Intermediate
+381,Yes,Yes,No,NLP,Neutral,10,TextBook,3,5,2,Verbal,Enjoy Communicating,6,Advanced
+382,No,Yes,No,Computer Vision,Dislike,10,Online,8,2,7,Verbal,Dislike,5,Beginner
+383,Yes,No,No,Deep Learning,Neutral,10,TextBook,1,2,5,Written,Neutral,5,Professional
+384,No,No,No,Computer Vision,Neutral,1,Study Group,2,5,3,Written,Neutral,7,Beginner
+385,No,No,No,NLP,Dislike,2,Online,6,6,1,Verbal,Dislike,3,Advanced
+386,Yes,No,Yes,Data Analysis,Neutral,1,TextBook,10,10,2,Verbal,Dislike,1,Beginner
+387,No,Yes,Yes,Data Analysis,Independent,1,TextBook,1,9,2,Verbal,Dislike,9,Professional
+388,Yes,No,No,Deep Learning,Highly Collaborative,10,Online,5,8,6,Written,Enjoy Communicating,10,Advanced
+389,No,No,No,Deep Learning,Dislike,9,TextBook,8,5,4,Written,Enjoy Communicating,6,Advanced
+390,Yes,Yes,No,NLP,Neutral,6,Peer Discussion,5,7,10,Written,Dislike,7,Beginner
+391,No,Yes,Yes,Computer Vision,Independent,1,TextBook,6,1,4,Written,Neutral,4,Beginner
+392,No,Yes,Yes,Deep Learning,Independent,8,Online,4,4,6,Verbal,Dislike,10,Intermediate
+393,No,No,No,Computer Vision,Independent,1,Peer Discussion,3,1,10,Verbal,Dislike,1,Advanced
+394,No,No,No,Data Analysis,Dislike,3,Online,6,9,10,Verbal,Enjoy Communicating,4,Advanced
+395,Yes,Yes,No,Deep Learning,Highly Collaborative,1,Peer Discussion,2,7,5,Verbal,Dislike,4,Professional
+396,Yes,Yes,Yes,Computer Vision,Neutral,4,Study Group,3,10,9,Written,Dislike,1,Advanced
+397,No,Yes,No,Data Analysis,Dislike,2,Peer Discussion,7,8,7,Written,Enjoy Communicating,8,Intermediate
+398,No,No,Yes,Computer Vision,Dislike,10,Peer Discussion,6,1,5,Written,Dislike,3,Professional
+399,No,No,No,NLP,Dislike,8,Study Group,1,6,8,Written,Neutral,6,Intermediate
+400,Yes,No,Yes,NLP,Neutral,4,Peer Discussion,6,6,1,Verbal,Dislike,6,Professional
+401,Yes,No,Yes,Computer Vision,Neutral,6,Study Group,10,7,4,Written,Enjoy Communicating,3,Professional
+402,Yes,No,No,Deep Learning,Neutral,8,TextBook,7,3,1,Written,Enjoy Communicating,7,Beginner
+403,Yes,Yes,Yes,Computer Vision,Independent,10,Peer Discussion,7,9,2,Verbal,Enjoy Communicating,3,Advanced
+404,Yes,No,Yes,Data Analysis,Independent,1,Peer Discussion,10,5,3,Written,Dislike,2,Intermediate
+405,No,Yes,No,Data Analysis,Neutral,6,Peer Discussion,7,8,10,Verbal,Neutral,4,Beginner
+406,Yes,Yes,Yes,NLP,Independent,1,TextBook,3,2,3,Verbal,Enjoy Communicating,3,Intermediate
+407,Yes,No,No,Deep Learning,Dislike,3,TextBook,4,8,4,Written,Enjoy Communicating,1,Advanced
+408,Yes,Yes,Yes,NLP,Independent,9,Peer Discussion,1,8,3,Written,Dislike,6,Professional
+409,No,Yes,Yes,Data Analysis,Independent,5,Study Group,5,2,5,Written,Dislike,8,Beginner
+410,Yes,No,No,Computer Vision,Neutral,8,Peer Discussion,3,2,5,Written,Neutral,10,Professional
+411,Yes,No,No,Deep Learning,Highly Collaborative,1,Online,2,3,3,Verbal,Neutral,4,Beginner
+412,Yes,Yes,No,Data Analysis,Dislike,5,TextBook,9,5,5,Verbal,Neutral,10,Advanced
+413,Yes,Yes,Yes,NLP,Independent,7,Peer Discussion,4,8,4,Written,Enjoy Communicating,7,Beginner
+414,No,No,No,Data Analysis,Highly Collaborative,9,TextBook,7,9,3,Verbal,Enjoy Communicating,3,Intermediate
+415,Yes,Yes,Yes,Deep Learning,Dislike,7,Study Group,8,2,2,Verbal,Neutral,7,Beginner
+416,Yes,Yes,No,NLP,Highly Collaborative,2,TextBook,3,9,4,Written,Neutral,1,Professional
+417,Yes,Yes,Yes,NLP,Neutral,2,Peer Discussion,5,7,5,Written,Enjoy Communicating,9,Intermediate
+418,Yes,Yes,Yes,Deep Learning,Dislike,2,Online,8,1,9,Written,Enjoy Communicating,7,Advanced
+419,Yes,Yes,No,Computer Vision,Dislike,4,Online,5,5,5,Written,Neutral,3,Professional
+420,No,No,Yes,Computer Vision,Independent,2,Peer Discussion,6,7,3,Written,Dislike,8,Intermediate
+421,Yes,No,No,Data Analysis,Independent,10,Study Group,3,1,4,Written,Dislike,10,Professional
+422,Yes,Yes,No,Data Analysis,Neutral,8,Online,5,5,3,Verbal,Neutral,4,Intermediate
+423,No,No,Yes,NLP,Dislike,9,TextBook,7,6,2,Verbal,Dislike,8,Beginner
+424,Yes,Yes,No,NLP,Independent,7,Online,9,10,9,Verbal,Enjoy Communicating,1,Intermediate
+425,Yes,Yes,No,Deep Learning,Highly Collaborative,10,Peer Discussion,7,3,1,Verbal,Dislike,9,Advanced
+426,Yes,Yes,Yes,Computer Vision,Independent,10,Study Group,1,5,8,Written,Enjoy Communicating,4,Professional
+427,Yes,No,No,Deep Learning,Independent,9,Peer Discussion,7,9,5,Verbal,Dislike,5,Advanced
+428,No,Yes,Yes,Deep Learning,Highly Collaborative,7,Peer Discussion,4,6,9,Written,Dislike,7,Beginner
+429,No,Yes,No,Deep Learning,Independent,8,Study Group,2,2,3,Written,Dislike,2,Advanced
+430,Yes,No,Yes,Deep Learning,Independent,8,Study Group,10,3,6,Verbal,Dislike,5,Intermediate
+431,Yes,No,No,NLP,Dislike,6,TextBook,10,5,5,Verbal,Enjoy Communicating,3,Intermediate
+432,No,Yes,Yes,Data Analysis,Highly Collaborative,5,Study Group,4,5,3,Written,Dislike,2,Beginner
+433,No,No,Yes,NLP,Dislike,8,TextBook,6,5,2,Verbal,Dislike,4,Beginner
+434,No,No,Yes,Computer Vision,Highly Collaborative,10,Peer Discussion,7,4,4,Written,Dislike,1,Professional
+435,Yes,No,No,Deep Learning,Independent,3,Study Group,9,6,6,Verbal,Enjoy Communicating,6,Intermediate
+436,Yes,Yes,Yes,Computer Vision,Neutral,8,Study Group,3,8,6,Verbal,Enjoy Communicating,6,Intermediate
+437,No,Yes,Yes,Data Analysis,Highly Collaborative,3,Online,7,9,6,Verbal,Dislike,8,Beginner
+438,Yes,No,Yes,Deep Learning,Neutral,3,TextBook,9,6,4,Written,Enjoy Communicating,1,Professional
+439,No,No,No,Deep Learning,Dislike,10,Study Group,8,1,4,Verbal,Neutral,7,Professional
+440,Yes,No,Yes,NLP,Dislike,5,Online,10,1,5,Written,Enjoy Communicating,4,Advanced
+441,Yes,No,No,Computer Vision,Neutral,2,TextBook,4,8,7,Verbal,Neutral,9,Professional
+442,No,Yes,Yes,Deep Learning,Neutral,10,Online,1,3,2,Verbal,Neutral,1,Beginner
+443,No,Yes,No,Data Analysis,Dislike,9,Online,3,9,5,Verbal,Dislike,7,Intermediate
+444,No,No,No,Deep Learning,Highly Collaborative,9,Peer Discussion,9,2,1,Written,Dislike,1,Intermediate
+445,No,No,No,NLP,Independent,4,TextBook,9,3,6,Written,Enjoy Communicating,3,Intermediate
+446,Yes,No,Yes,NLP,Independent,7,Online,2,10,6,Verbal,Dislike,1,Beginner
+447,No,No,Yes,NLP,Neutral,4,Online,3,6,9,Verbal,Neutral,8,Professional
+448,No,No,Yes,Data Analysis,Independent,4,TextBook,10,8,5,Written,Dislike,6,Beginner
+449,Yes,Yes,No,Computer Vision,Neutral,9,Online,9,6,9,Verbal,Neutral,2,Professional
+450,Yes,Yes,No,Data Analysis,Neutral,10,Online,6,10,1,Written,Enjoy Communicating,6,Intermediate
+451,No,Yes,Yes,Deep Learning,Highly Collaborative,2,TextBook,10,5,10,Verbal,Enjoy Communicating,7,Advanced
+452,Yes,Yes,Yes,NLP,Highly Collaborative,6,Study Group,3,9,4,Written,Neutral,10,Beginner
+453,Yes,Yes,No,Computer Vision,Neutral,2,Peer Discussion,9,8,7,Written,Dislike,8,Professional
+454,Yes,Yes,No,Data Analysis,Highly Collaborative,2,TextBook,1,3,7,Written,Enjoy Communicating,1,Professional
+455,No,No,No,Computer Vision,Neutral,10,TextBook,8,5,5,Written,Enjoy Communicating,7,Intermediate
+456,Yes,No,Yes,NLP,Neutral,1,TextBook,1,8,7,Written,Enjoy Communicating,8,Advanced
+457,Yes,No,Yes,Deep Learning,Highly Collaborative,7,Study Group,10,3,8,Verbal,Dislike,7,Advanced
+458,Yes,No,Yes,Deep Learning,Neutral,10,Peer Discussion,4,8,3,Verbal,Neutral,9,Advanced
+459,No,Yes,Yes,Deep Learning,Dislike,8,Online,7,8,8,Verbal,Neutral,2,Advanced
+460,Yes,No,No,Data Analysis,Highly Collaborative,2,Peer Discussion,4,10,1,Verbal,Dislike,6,Professional
+461,No,No,No,Deep Learning,Neutral,5,TextBook,7,6,5,Written,Dislike,6,Beginner
+462,No,Yes,No,Computer Vision,Dislike,2,Online,1,6,7,Verbal,Enjoy Communicating,4,Professional
+463,Yes,No,Yes,NLP,Dislike,9,Online,9,9,10,Verbal,Dislike,3,Beginner
+464,Yes,Yes,Yes,Deep Learning,Highly Collaborative,8,Study Group,9,10,8,Verbal,Neutral,7,Beginner
+465,No,Yes,Yes,Computer Vision,Dislike,7,Study Group,6,7,2,Written,Neutral,1,Professional
+466,Yes,No,Yes,Computer Vision,Dislike,6,Peer Discussion,2,9,6,Verbal,Neutral,3,Intermediate
+467,Yes,Yes,Yes,Computer Vision,Neutral,4,Peer Discussion,6,9,4,Verbal,Dislike,3,Beginner
+468,Yes,No,Yes,NLP,Independent,6,Peer Discussion,8,1,4,Written,Neutral,10,Advanced
+469,No,No,No,NLP,Highly Collaborative,5,TextBook,6,5,3,Verbal,Enjoy Communicating,1,Beginner
+470,No,Yes,No,Deep Learning,Neutral,4,Peer Discussion,6,4,4,Written,Enjoy Communicating,3,Professional
+471,Yes,No,Yes,Deep Learning,Highly Collaborative,10,Study Group,9,8,5,Verbal,Neutral,7,Professional
+472,No,Yes,Yes,Data Analysis,Dislike,6,Study Group,3,9,3,Written,Dislike,8,Professional
+473,No,No,No,Deep Learning,Highly Collaborative,7,Peer Discussion,10,3,2,Verbal,Dislike,5,Beginner
+474,Yes,No,Yes,Deep Learning,Dislike,4,TextBook,2,7,1,Written,Dislike,5,Intermediate
+475,Yes,Yes,Yes,NLP,Highly Collaborative,9,Peer Discussion,8,10,4,Verbal,Neutral,2,Advanced
+476,Yes,Yes,Yes,Data Analysis,Independent,5,Online,1,5,1,Written,Neutral,3,Professional
+477,Yes,No,No,Deep Learning,Highly Collaborative,9,Peer Discussion,8,2,1,Verbal,Dislike,3,Advanced
+478,No,Yes,No,Deep Learning,Highly Collaborative,1,TextBook,6,9,5,Written,Neutral,10,Professional
+479,Yes,No,No,NLP,Highly Collaborative,5,Study Group,8,10,4,Verbal,Dislike,10,Advanced
+480,No,Yes,Yes,Data Analysis,Highly Collaborative,5,Peer Discussion,1,7,4,Written,Dislike,7,Professional
+481,Yes,No,No,Computer Vision,Neutral,7,Peer Discussion,6,3,7,Written,Neutral,2,Beginner
+482,No,Yes,Yes,Data Analysis,Neutral,5,Peer Discussion,5,9,10,Verbal,Enjoy Communicating,8,Professional
+483,No,No,No,NLP,Neutral,8,Peer Discussion,9,8,6,Written,Neutral,8,Advanced
+484,Yes,Yes,Yes,Deep Learning,Neutral,4,TextBook,8,2,2,Verbal,Enjoy Communicating,9,Intermediate
+485,Yes,No,Yes,Computer Vision,Dislike,10,TextBook,4,10,9,Verbal,Dislike,1,Beginner
+486,No,Yes,No,NLP,Highly Collaborative,8,TextBook,6,6,7,Verbal,Dislike,1,Advanced
+487,Yes,No,No,NLP,Neutral,8,Peer Discussion,10,6,6,Verbal,Neutral,2,Professional
+488,No,Yes,Yes,NLP,Dislike,4,Peer Discussion,1,6,9,Written,Enjoy Communicating,8,Intermediate
+489,No,Yes,Yes,NLP,Independent,4,Study Group,7,5,7,Written,Dislike,2,Beginner
+490,No,Yes,Yes,Computer Vision,Highly Collaborative,1,TextBook,1,6,6,Verbal,Neutral,4,Advanced
+491,No,No,Yes,NLP,Dislike,5,Peer Discussion,4,7,4,Written,Dislike,9,Intermediate
+492,No,Yes,Yes,NLP,Highly Collaborative,2,Online,6,7,1,Written,Neutral,10,Professional
+493,Yes,No,No,Data Analysis,Highly Collaborative,7,Study Group,1,9,9,Written,Dislike,5,Intermediate
+494,No,No,Yes,Deep Learning,Independent,7,TextBook,2,9,1,Written,Enjoy Communicating,4,Advanced
+495,Yes,Yes,Yes,Computer Vision,Independent,3,TextBook,2,1,2,Verbal,Dislike,10,Advanced
+496,No,Yes,Yes,Data Analysis,Independent,2,TextBook,4,1,10,Verbal,Neutral,9,Advanced
+497,No,No,Yes,Computer Vision,Dislike,10,Peer Discussion,4,8,4,Written,Neutral,4,Beginner
+498,Yes,No,No,Data Analysis,Dislike,4,TextBook,4,6,2,Verbal,Enjoy Communicating,10,Advanced
+499,No,Yes,Yes,Computer Vision,Independent,10,Peer Discussion,7,4,4,Written,Enjoy Communicating,1,Beginner
+500,No,No,Yes,Deep Learning,Independent,2,Peer Discussion,1,5,4,Verbal,Dislike,6,Intermediate
+501,No,No,No,Computer Vision,Independent,8,Study Group,5,5,6,Verbal,Neutral,8,Beginner
+502,No,No,Yes,Computer Vision,Highly Collaborative,1,Online,3,6,1,Verbal,Neutral,4,Beginner
+503,No,Yes,No,Data Analysis,Independent,10,TextBook,5,5,4,Verbal,Dislike,9,Intermediate
+504,No,Yes,Yes,NLP,Independent,1,TextBook,4,5,7,Written,Dislike,7,Advanced
+505,No,Yes,Yes,Deep Learning,Independent,6,Study Group,2,10,5,Written,Enjoy Communicating,7,Beginner
+506,Yes,Yes,No,Deep Learning,Highly Collaborative,9,Online,1,4,10,Verbal,Neutral,8,Advanced
+507,No,No,Yes,Data Analysis,Independent,2,TextBook,1,9,6,Verbal,Dislike,3,Intermediate
+508,Yes,Yes,No,NLP,Dislike,2,TextBook,2,2,1,Verbal,Dislike,8,Professional
+509,Yes,No,Yes,Deep Learning,Neutral,8,Peer Discussion,1,3,6,Written,Dislike,1,Beginner
+510,Yes,Yes,Yes,Computer Vision,Neutral,8,TextBook,5,10,5,Written,Dislike,1,Beginner
+511,No,Yes,No,NLP,Highly Collaborative,7,Peer Discussion,6,1,10,Written,Dislike,5,Professional
+512,Yes,Yes,Yes,Data Analysis,Highly Collaborative,1,Study Group,4,9,5,Verbal,Neutral,5,Professional
+513,No,No,Yes,NLP,Independent,1,Study Group,2,8,4,Written,Enjoy Communicating,5,Beginner
+514,Yes,Yes,Yes,Deep Learning,Independent,10,Online,7,10,9,Written,Dislike,6,Beginner
+515,No,Yes,Yes,Deep Learning,Dislike,5,Peer Discussion,3,7,6,Verbal,Enjoy Communicating,7,Intermediate
+516,No,Yes,Yes,Deep Learning,Dislike,8,Study Group,3,3,6,Verbal,Neutral,7,Professional
+517,Yes,Yes,Yes,Deep Learning,Dislike,9,Online,8,2,2,Verbal,Dislike,7,Professional
+518,No,Yes,No,Data Analysis,Neutral,3,Online,3,1,2,Verbal,Dislike,6,Intermediate
+519,Yes,No,No,NLP,Dislike,10,TextBook,1,8,7,Written,Neutral,9,Professional
+520,No,Yes,No,NLP,Highly Collaborative,10,Peer Discussion,1,4,4,Verbal,Dislike,8,Beginner
+521,No,Yes,Yes,Data Analysis,Neutral,9,Peer Discussion,4,6,7,Written,Enjoy Communicating,3,Advanced
+522,Yes,Yes,No,Deep Learning,Dislike,3,Study Group,4,7,6,Verbal,Dislike,9,Advanced
+523,No,Yes,Yes,NLP,Dislike,6,Peer Discussion,1,4,1,Written,Enjoy Communicating,2,Intermediate
+524,Yes,Yes,Yes,NLP,Dislike,5,TextBook,3,7,5,Verbal,Enjoy Communicating,1,Professional
+525,No,Yes,Yes,Deep Learning,Independent,8,Peer Discussion,7,8,4,Verbal,Enjoy Communicating,9,Intermediate
+526,No,No,No,Computer Vision,Neutral,4,Study Group,3,10,5,Written,Neutral,2,Beginner
+527,Yes,No,No,Computer Vision,Highly Collaborative,4,Peer Discussion,5,9,9,Verbal,Neutral,7,Intermediate
+528,Yes,No,Yes,Deep Learning,Independent,6,Online,10,4,4,Verbal,Neutral,7,Beginner
+529,Yes,No,No,Data Analysis,Highly Collaborative,1,TextBook,5,8,2,Written,Dislike,9,Beginner
+530,No,No,No,Deep Learning,Neutral,4,TextBook,8,8,10,Verbal,Dislike,3,Advanced
+531,No,Yes,No,NLP,Independent,6,Study Group,9,9,5,Written,Neutral,4,Beginner
+532,Yes,No,No,Data Analysis,Neutral,7,Peer Discussion,3,1,6,Verbal,Enjoy Communicating,10,Beginner
+533,No,No,No,Computer Vision,Neutral,5,TextBook,5,3,3,Verbal,Enjoy Communicating,8,Intermediate
+534,No,Yes,No,NLP,Highly Collaborative,4,Study Group,7,5,8,Written,Neutral,7,Beginner
+535,No,Yes,No,Data Analysis,Highly Collaborative,10,Study Group,7,4,10,Written,Neutral,10,Intermediate
+536,Yes,No,No,NLP,Independent,8,Online,6,8,10,Verbal,Neutral,9,Intermediate
+537,Yes,Yes,Yes,Deep Learning,Independent,10,Study Group,7,2,8,Verbal,Enjoy Communicating,5,Advanced
+538,Yes,Yes,Yes,Computer Vision,Independent,1,Peer Discussion,3,2,4,Verbal,Neutral,3,Beginner
+539,No,No,No,NLP,Neutral,10,TextBook,5,3,8,Verbal,Neutral,5,Beginner
+540,No,Yes,Yes,Deep Learning,Independent,7,Study Group,3,4,9,Verbal,Neutral,9,Beginner
+541,Yes,No,Yes,Computer Vision,Dislike,10,Online,6,10,10,Written,Dislike,5,Advanced
+542,No,Yes,Yes,Computer Vision,Independent,1,TextBook,10,3,7,Verbal,Enjoy Communicating,3,Beginner
+543,Yes,Yes,No,NLP,Independent,9,TextBook,6,3,2,Written,Neutral,2,Advanced
+544,No,No,No,NLP,Independent,2,Study Group,9,5,10,Written,Enjoy Communicating,9,Beginner
+545,Yes,Yes,No,Deep Learning,Highly Collaborative,6,Peer Discussion,3,3,1,Written,Dislike,4,Advanced
+546,Yes,Yes,No,NLP,Dislike,4,Peer Discussion,7,2,7,Verbal,Dislike,2,Beginner
+547,Yes,Yes,Yes,Deep Learning,Independent,5,Study Group,6,9,3,Written,Enjoy Communicating,4,Beginner
+548,Yes,No,Yes,Computer Vision,Neutral,10,Peer Discussion,2,8,3,Written,Neutral,7,Beginner
+549,No,No,Yes,Computer Vision,Highly Collaborative,3,Peer Discussion,3,8,9,Verbal,Neutral,6,Advanced
+550,Yes,No,No,Computer Vision,Neutral,10,Online,10,10,4,Verbal,Enjoy Communicating,8,Advanced
+551,No,No,No,Computer Vision,Highly Collaborative,1,Online,4,6,4,Verbal,Enjoy Communicating,4,Advanced
+552,No,No,Yes,Data Analysis,Highly Collaborative,4,Peer Discussion,9,7,7,Verbal,Neutral,7,Beginner
+553,No,Yes,No,Deep Learning,Neutral,5,Study Group,7,8,3,Verbal,Enjoy Communicating,9,Advanced
+554,Yes,Yes,Yes,Computer Vision,Neutral,8,Study Group,5,1,7,Verbal,Enjoy Communicating,3,Professional
+555,No,Yes,Yes,Data Analysis,Independent,7,Study Group,7,8,7,Written,Dislike,5,Professional
+556,No,No,Yes,NLP,Dislike,8,Online,4,7,8,Written,Enjoy Communicating,1,Intermediate
+557,Yes,No,Yes,NLP,Dislike,9,Peer Discussion,3,4,6,Written,Enjoy Communicating,10,Professional
+558,Yes,Yes,No,Computer Vision,Dislike,8,Study Group,1,3,10,Written,Dislike,1,Beginner
+559,Yes,No,Yes,Data Analysis,Neutral,9,TextBook,5,5,8,Verbal,Neutral,7,Intermediate
+560,No,No,Yes,Computer Vision,Highly Collaborative,3,TextBook,6,2,7,Verbal,Dislike,1,Advanced
+561,Yes,No,Yes,Deep Learning,Independent,7,TextBook,5,4,4,Verbal,Enjoy Communicating,4,Professional
+562,Yes,No,No,NLP,Independent,3,Online,1,6,7,Verbal,Dislike,4,Beginner
+563,No,No,No,Data Analysis,Neutral,1,Peer Discussion,6,6,8,Verbal,Dislike,1,Intermediate
+564,Yes,No,No,Computer Vision,Dislike,8,Study Group,5,3,2,Verbal,Enjoy Communicating,4,Advanced
+565,Yes,No,Yes,Deep Learning,Neutral,6,Study Group,4,7,4,Written,Dislike,1,Beginner
+566,Yes,No,Yes,Computer Vision,Independent,2,TextBook,1,8,1,Verbal,Enjoy Communicating,4,Intermediate
+567,Yes,No,No,Deep Learning,Neutral,3,Peer Discussion,9,9,7,Written,Dislike,9,Professional
+568,Yes,No,No,Computer Vision,Independent,2,Peer Discussion,3,6,6,Verbal,Enjoy Communicating,2,Intermediate
+569,Yes,No,Yes,Data Analysis,Highly Collaborative,3,TextBook,10,10,9,Verbal,Dislike,9,Professional
+570,Yes,Yes,Yes,Deep Learning,Neutral,5,Peer Discussion,8,8,6,Verbal,Enjoy Communicating,7,Advanced
+571,No,Yes,No,Computer Vision,Independent,8,Study Group,10,9,4,Verbal,Dislike,7,Professional
+572,No,No,Yes,Deep Learning,Dislike,7,Study Group,9,3,2,Verbal,Enjoy Communicating,5,Advanced
+573,No,Yes,Yes,NLP,Independent,4,Study Group,7,3,5,Written,Enjoy Communicating,8,Professional
+574,Yes,Yes,Yes,Deep Learning,Highly Collaborative,4,Study Group,9,4,6,Written,Enjoy Communicating,8,Professional
+575,No,Yes,Yes,Deep Learning,Neutral,2,TextBook,4,7,8,Written,Neutral,10,Beginner
+576,No,No,Yes,Deep Learning,Dislike,1,Peer Discussion,7,1,3,Verbal,Neutral,8,Beginner
+577,Yes,No,No,Computer Vision,Dislike,2,Study Group,6,1,8,Verbal,Neutral,8,Beginner
+578,Yes,No,Yes,Data Analysis,Highly Collaborative,4,TextBook,1,2,8,Verbal,Neutral,7,Professional
+579,No,Yes,No,Data Analysis,Dislike,9,Study Group,5,9,3,Written,Enjoy Communicating,1,Advanced
+580,No,No,Yes,Deep Learning,Highly Collaborative,6,TextBook,9,2,1,Written,Enjoy Communicating,10,Beginner
+581,Yes,No,Yes,Deep Learning,Dislike,1,TextBook,3,6,10,Written,Enjoy Communicating,4,Professional
+582,No,No,Yes,Data Analysis,Dislike,2,Study Group,10,9,1,Verbal,Neutral,10,Intermediate
+583,Yes,Yes,Yes,Data Analysis,Neutral,7,Study Group,7,9,4,Written,Enjoy Communicating,1,Intermediate
+584,Yes,Yes,No,Computer Vision,Neutral,1,TextBook,1,8,9,Verbal,Enjoy Communicating,10,Beginner
+585,Yes,Yes,No,Computer Vision,Independent,1,TextBook,4,10,6,Verbal,Enjoy Communicating,2,Professional
+586,Yes,Yes,No,NLP,Neutral,8,Online,6,8,7,Verbal,Dislike,7,Beginner
+587,No,Yes,Yes,Computer Vision,Dislike,1,Online,10,10,5,Verbal,Dislike,2,Advanced
+588,No,No,No,NLP,Highly Collaborative,9,Online,4,7,4,Verbal,Dislike,8,Advanced
+589,No,Yes,No,Data Analysis,Highly Collaborative,6,Peer Discussion,8,10,1,Verbal,Dislike,7,Beginner
+590,No,No,No,Deep Learning,Dislike,10,TextBook,8,3,5,Written,Enjoy Communicating,1,Advanced
+591,Yes,Yes,Yes,Deep Learning,Dislike,10,Online,2,10,3,Verbal,Enjoy Communicating,3,Advanced
+592,No,No,No,Data Analysis,Highly Collaborative,10,Study Group,3,3,1,Written,Enjoy Communicating,4,Advanced
+593,No,No,Yes,Computer Vision,Neutral,6,Online,4,3,4,Verbal,Enjoy Communicating,7,Professional
+594,No,Yes,Yes,Computer Vision,Dislike,4,TextBook,1,4,7,Written,Dislike,5,Beginner
+595,Yes,Yes,Yes,Data Analysis,Neutral,7,Study Group,2,10,4,Verbal,Neutral,7,Beginner
+596,Yes,No,No,Data Analysis,Neutral,7,Study Group,10,4,6,Verbal,Dislike,4,Professional
+597,Yes,Yes,No,Data Analysis,Independent,7,Study Group,8,3,9,Written,Enjoy Communicating,10,Beginner
+598,No,No,No,Computer Vision,Independent,2,Peer Discussion,3,2,1,Verbal,Enjoy Communicating,6,Intermediate
+599,Yes,Yes,Yes,NLP,Neutral,8,TextBook,9,3,1,Written,Enjoy Communicating,10,Professional
+600,Yes,No,Yes,Deep Learning,Dislike,1,Peer Discussion,2,3,3,Verbal,Enjoy Communicating,4,Professional
+601,No,Yes,No,Deep Learning,Independent,1,Study Group,7,1,9,Verbal,Neutral,6,Professional
+602,Yes,No,No,Deep Learning,Dislike,7,Study Group,6,10,2,Verbal,Enjoy Communicating,9,Beginner
+603,No,Yes,Yes,Data Analysis,Dislike,5,Study Group,4,3,4,Verbal,Dislike,1,Intermediate
+604,No,Yes,Yes,NLP,Independent,10,Study Group,4,6,5,Written,Enjoy Communicating,1,Advanced
+605,Yes,Yes,Yes,NLP,Neutral,5,Online,8,8,9,Written,Dislike,3,Beginner
+606,Yes,No,Yes,Data Analysis,Neutral,9,Peer Discussion,10,3,6,Written,Dislike,2,Professional
+607,Yes,Yes,Yes,NLP,Independent,3,Peer Discussion,2,9,3,Verbal,Dislike,10,Beginner
+608,Yes,No,No,Computer Vision,Neutral,3,TextBook,7,5,6,Verbal,Enjoy Communicating,5,Advanced
+609,No,Yes,Yes,Data Analysis,Neutral,2,Peer Discussion,6,5,5,Written,Enjoy Communicating,1,Intermediate
+610,No,Yes,Yes,Computer Vision,Neutral,6,TextBook,7,1,10,Verbal,Enjoy Communicating,5,Intermediate
+611,No,Yes,No,Computer Vision,Independent,7,Online,10,8,1,Written,Dislike,6,Intermediate
+612,No,No,No,Deep Learning,Highly Collaborative,3,TextBook,3,9,1,Written,Dislike,3,Professional
+613,No,No,No,NLP,Dislike,10,Study Group,3,1,8,Verbal,Neutral,1,Intermediate
+614,Yes,No,No,NLP,Dislike,5,Online,2,4,9,Written,Dislike,3,Professional
+615,No,No,Yes,NLP,Independent,8,Peer Discussion,1,3,6,Verbal,Dislike,4,Professional
+616,Yes,Yes,Yes,Data Analysis,Neutral,3,Online,9,2,4,Verbal,Dislike,5,Professional
+617,No,Yes,Yes,Data Analysis,Highly Collaborative,8,Online,6,10,8,Written,Enjoy Communicating,10,Advanced
+618,No,Yes,No,Deep Learning,Independent,10,Peer Discussion,7,10,3,Verbal,Neutral,10,Beginner
+619,Yes,No,Yes,Data Analysis,Neutral,7,Online,9,5,5,Written,Enjoy Communicating,3,Beginner
+620,No,No,Yes,Data Analysis,Neutral,2,TextBook,2,7,10,Verbal,Dislike,9,Beginner
+621,Yes,No,Yes,Deep Learning,Highly Collaborative,9,Peer Discussion,9,4,5,Verbal,Dislike,9,Professional
+622,Yes,Yes,No,Deep Learning,Highly Collaborative,4,Study Group,10,6,3,Written,Enjoy Communicating,7,Professional
+623,No,Yes,No,Deep Learning,Highly Collaborative,3,Study Group,1,2,8,Verbal,Dislike,1,Beginner
+624,Yes,Yes,No,NLP,Dislike,3,Online,1,3,4,Written,Dislike,4,Professional
+625,No,Yes,No,NLP,Neutral,5,Online,9,1,5,Written,Enjoy Communicating,3,Intermediate
+626,Yes,No,No,Deep Learning,Dislike,5,Online,8,5,9,Written,Enjoy Communicating,10,Professional
+627,No,Yes,No,NLP,Dislike,9,Online,5,10,6,Written,Neutral,6,Advanced
+628,Yes,Yes,Yes,NLP,Dislike,3,Peer Discussion,8,8,10,Written,Enjoy Communicating,7,Beginner
+629,Yes,Yes,Yes,NLP,Neutral,1,Study Group,2,10,10,Written,Dislike,5,Intermediate
+630,Yes,No,No,Data Analysis,Neutral,2,TextBook,6,3,7,Written,Dislike,7,Advanced
+631,No,No,Yes,Deep Learning,Highly Collaborative,1,TextBook,1,4,7,Written,Dislike,4,Intermediate
+632,No,Yes,No,Computer Vision,Dislike,2,Peer Discussion,7,5,5,Written,Dislike,8,Advanced
+633,No,No,No,Computer Vision,Independent,4,Study Group,2,3,9,Written,Neutral,6,Intermediate
+634,No,No,Yes,Deep Learning,Dislike,6,Online,7,8,9,Written,Enjoy Communicating,9,Professional
+635,Yes,No,No,Deep Learning,Highly Collaborative,9,Study Group,8,2,5,Written,Enjoy Communicating,7,Intermediate
+636,No,No,No,NLP,Dislike,6,Study Group,8,10,2,Verbal,Dislike,8,Professional
+637,No,No,Yes,Computer Vision,Dislike,10,TextBook,3,3,2,Verbal,Enjoy Communicating,2,Beginner
+638,No,Yes,No,Computer Vision,Highly Collaborative,4,Study Group,4,5,6,Verbal,Neutral,2,Advanced
+639,Yes,Yes,No,Deep Learning,Independent,1,Study Group,3,5,10,Written,Dislike,3,Advanced
+640,Yes,No,No,Deep Learning,Neutral,2,Study Group,4,7,4,Written,Neutral,9,Intermediate
+641,No,No,No,NLP,Dislike,6,TextBook,1,10,9,Written,Enjoy Communicating,6,Intermediate
+642,Yes,Yes,No,Computer Vision,Dislike,2,TextBook,5,7,5,Verbal,Dislike,2,Professional
+643,No,No,Yes,Computer Vision,Neutral,1,Study Group,5,7,5,Written,Enjoy Communicating,9,Professional
+644,Yes,No,Yes,Computer Vision,Dislike,7,TextBook,9,7,9,Written,Neutral,9,Beginner
+645,No,Yes,Yes,Data Analysis,Neutral,10,Peer Discussion,6,1,5,Written,Neutral,4,Beginner
+646,No,No,No,Deep Learning,Dislike,5,Peer Discussion,7,6,8,Verbal,Enjoy Communicating,7,Beginner
+647,Yes,Yes,No,NLP,Neutral,4,Online,2,6,3,Verbal,Dislike,3,Beginner
+648,No,Yes,No,Computer Vision,Dislike,4,Online,4,3,10,Written,Dislike,1,Advanced
+649,Yes,No,Yes,NLP,Highly Collaborative,5,Study Group,10,5,10,Written,Dislike,4,Advanced
+650,Yes,No,No,NLP,Neutral,1,TextBook,7,6,2,Verbal,Dislike,3,Beginner
+651,No,No,Yes,NLP,Dislike,7,Study Group,5,4,7,Written,Dislike,5,Beginner
+652,Yes,Yes,Yes,Data Analysis,Independent,9,TextBook,7,10,10,Verbal,Enjoy Communicating,6,Beginner
+653,Yes,No,No,Deep Learning,Highly Collaborative,8,Study Group,6,3,7,Verbal,Dislike,3,Beginner
+654,No,No,Yes,Computer Vision,Neutral,9,Study Group,2,9,10,Written,Dislike,6,Professional
+655,Yes,No,Yes,NLP,Highly Collaborative,8,Online,9,10,7,Verbal,Dislike,10,Professional
+656,Yes,Yes,No,Deep Learning,Independent,9,Study Group,4,1,3,Verbal,Neutral,6,Beginner
+657,Yes,Yes,Yes,Computer Vision,Independent,7,Peer Discussion,4,9,6,Verbal,Enjoy Communicating,1,Professional
+658,No,No,Yes,Data Analysis,Dislike,6,Online,4,4,6,Verbal,Neutral,6,Advanced
+659,No,Yes,No,Data Analysis,Independent,5,Study Group,4,8,1,Written,Neutral,8,Professional
+660,No,Yes,No,Deep Learning,Highly Collaborative,9,Study Group,9,7,6,Verbal,Neutral,3,Advanced
+661,Yes,No,Yes,Deep Learning,Neutral,1,Study Group,3,2,8,Written,Dislike,2,Professional
+662,No,No,No,Computer Vision,Neutral,1,TextBook,2,10,2,Verbal,Dislike,7,Beginner
+663,No,No,No,Computer Vision,Highly Collaborative,4,Peer Discussion,2,3,3,Written,Neutral,9,Professional
+664,No,Yes,Yes,Computer Vision,Highly Collaborative,6,TextBook,6,4,7,Verbal,Dislike,7,Advanced
+665,Yes,Yes,No,Computer Vision,Independent,5,TextBook,3,10,8,Written,Neutral,10,Advanced
+666,Yes,Yes,Yes,Computer Vision,Neutral,3,Online,2,10,8,Written,Enjoy Communicating,1,Intermediate
+667,No,No,Yes,Computer Vision,Neutral,1,TextBook,5,7,8,Verbal,Neutral,2,Intermediate
+668,No,No,No,Computer Vision,Highly Collaborative,8,TextBook,8,7,8,Verbal,Dislike,1,Professional
+669,Yes,Yes,Yes,Data Analysis,Neutral,4,Study Group,4,9,4,Verbal,Neutral,1,Professional
+670,No,Yes,No,Computer Vision,Neutral,3,Peer Discussion,7,3,10,Verbal,Neutral,8,Intermediate
+671,No,Yes,No,Computer Vision,Independent,4,Online,3,7,8,Written,Neutral,3,Professional
+672,No,Yes,No,Deep Learning,Independent,9,Study Group,8,9,5,Verbal,Neutral,6,Professional
+673,Yes,Yes,No,Computer Vision,Dislike,1,Online,6,8,9,Verbal,Neutral,6,Intermediate
+674,Yes,Yes,Yes,Deep Learning,Neutral,10,Online,1,2,1,Written,Dislike,10,Professional
+675,Yes,No,Yes,Data Analysis,Dislike,3,Study Group,8,2,2,Written,Enjoy Communicating,7,Professional
+676,No,Yes,No,NLP,Dislike,2,Peer Discussion,6,4,2,Verbal,Neutral,6,Intermediate
+677,No,No,Yes,Deep Learning,Neutral,5,Study Group,10,10,1,Verbal,Enjoy Communicating,8,Advanced
+678,No,Yes,No,Deep Learning,Neutral,9,Online,9,6,7,Written,Dislike,2,Beginner
+679,Yes,No,Yes,Deep Learning,Independent,3,Peer Discussion,9,1,5,Written,Enjoy Communicating,10,Advanced
+680,Yes,Yes,Yes,Computer Vision,Highly Collaborative,2,TextBook,4,7,1,Written,Neutral,7,Advanced
+681,No,Yes,No,Deep Learning,Neutral,10,Peer Discussion,2,5,7,Verbal,Neutral,6,Intermediate
+682,Yes,Yes,Yes,Data Analysis,Independent,2,Study Group,6,1,1,Verbal,Dislike,9,Advanced
+683,Yes,No,Yes,NLP,Highly Collaborative,1,Online,2,3,4,Written,Enjoy Communicating,7,Intermediate
+684,No,Yes,No,Computer Vision,Highly Collaborative,6,Peer Discussion,7,4,8,Written,Enjoy Communicating,6,Advanced
+685,Yes,Yes,Yes,Computer Vision,Neutral,2,TextBook,4,10,9,Verbal,Dislike,2,Advanced
+686,No,Yes,No,NLP,Dislike,10,Peer Discussion,7,5,5,Verbal,Neutral,5,Intermediate
+687,No,Yes,No,NLP,Neutral,2,TextBook,7,1,1,Verbal,Dislike,6,Advanced
+688,Yes,Yes,Yes,Computer Vision,Highly Collaborative,10,Study Group,9,10,7,Written,Dislike,5,Beginner
+689,Yes,Yes,Yes,Data Analysis,Independent,8,Peer Discussion,9,3,1,Verbal,Enjoy Communicating,3,Professional
+690,No,Yes,No,Data Analysis,Highly Collaborative,6,TextBook,10,4,1,Written,Dislike,4,Advanced
+691,Yes,Yes,Yes,Computer Vision,Neutral,9,Online,10,10,5,Written,Enjoy Communicating,5,Advanced
+692,Yes,Yes,Yes,Computer Vision,Independent,6,Online,8,6,7,Written,Dislike,5,Advanced
+693,No,Yes,No,Data Analysis,Highly Collaborative,6,Study Group,6,7,4,Verbal,Neutral,6,Intermediate
+694,Yes,Yes,No,Deep Learning,Independent,8,Peer Discussion,3,9,6,Written,Neutral,1,Advanced
+695,Yes,Yes,No,Computer Vision,Neutral,6,Study Group,2,4,6,Written,Dislike,2,Intermediate
+696,No,No,No,NLP,Highly Collaborative,8,Online,1,8,1,Written,Neutral,1,Beginner
+697,No,Yes,No,NLP,Dislike,1,Study Group,10,7,5,Written,Neutral,9,Intermediate
+698,No,No,Yes,NLP,Dislike,4,Online,9,3,5,Verbal,Enjoy Communicating,7,Beginner
+699,Yes,Yes,No,Data Analysis,Dislike,10,Study Group,1,6,3,Written,Neutral,5,Intermediate
+700,Yes,No,No,Computer Vision,Independent,9,Peer Discussion,7,10,1,Written,Enjoy Communicating,10,Intermediate
+701,Yes,No,Yes,NLP,Dislike,10,Online,6,1,2,Written,Neutral,10,Advanced
+702,No,Yes,Yes,Computer Vision,Dislike,9,Online,2,8,10,Written,Dislike,3,Advanced
+703,Yes,Yes,No,Data Analysis,Highly Collaborative,10,Online,10,4,3,Verbal,Dislike,3,Intermediate
+704,No,No,No,NLP,Independent,5,Study Group,3,9,8,Written,Neutral,4,Advanced
+705,Yes,Yes,Yes,Deep Learning,Neutral,7,TextBook,3,1,2,Verbal,Enjoy Communicating,8,Beginner
+706,No,No,No,Computer Vision,Highly Collaborative,6,Peer Discussion,10,10,10,Written,Neutral,4,Intermediate
+707,Yes,Yes,Yes,NLP,Neutral,4,Peer Discussion,6,4,5,Written,Enjoy Communicating,2,Advanced
+708,No,No,Yes,Deep Learning,Highly Collaborative,1,TextBook,6,3,8,Written,Dislike,8,Beginner
+709,No,No,Yes,Computer Vision,Highly Collaborative,10,TextBook,10,6,4,Verbal,Dislike,4,Intermediate
+710,Yes,No,Yes,NLP,Neutral,10,Study Group,1,8,7,Verbal,Enjoy Communicating,8,Advanced
+711,Yes,No,No,Computer Vision,Highly Collaborative,7,Study Group,6,2,8,Verbal,Dislike,5,Intermediate
+712,No,Yes,No,Data Analysis,Neutral,5,Peer Discussion,2,6,10,Verbal,Neutral,3,Intermediate
+713,Yes,No,No,Deep Learning,Highly Collaborative,4,Online,5,10,6,Written,Neutral,2,Professional
+714,Yes,Yes,No,Computer Vision,Highly Collaborative,6,TextBook,6,10,2,Verbal,Enjoy Communicating,7,Beginner
+715,No,No,No,NLP,Independent,1,Peer Discussion,7,10,10,Written,Enjoy Communicating,8,Beginner
+716,Yes,Yes,Yes,Computer Vision,Highly Collaborative,1,Online,10,6,4,Verbal,Neutral,10,Professional
+717,No,Yes,Yes,NLP,Highly Collaborative,3,Online,7,5,1,Written,Enjoy Communicating,9,Beginner
+718,Yes,No,Yes,Computer Vision,Neutral,6,Peer Discussion,2,6,6,Written,Enjoy Communicating,3,Advanced
+719,Yes,Yes,No,Computer Vision,Independent,7,TextBook,6,5,7,Written,Enjoy Communicating,8,Professional
+720,Yes,Yes,No,Computer Vision,Highly Collaborative,10,Peer Discussion,4,5,2,Verbal,Dislike,10,Professional
+721,Yes,No,Yes,NLP,Dislike,8,Online,7,6,6,Written,Dislike,3,Beginner
+722,Yes,No,Yes,NLP,Dislike,10,Peer Discussion,9,10,2,Verbal,Neutral,2,Advanced
+723,Yes,No,Yes,Data Analysis,Neutral,3,TextBook,7,2,6,Verbal,Enjoy Communicating,4,Advanced
+724,No,No,Yes,Deep Learning,Dislike,10,TextBook,2,4,2,Written,Neutral,8,Beginner
+725,No,Yes,Yes,Data Analysis,Dislike,2,Study Group,7,2,8,Verbal,Neutral,4,Beginner
+726,No,No,Yes,Data Analysis,Dislike,1,TextBook,7,1,1,Verbal,Neutral,1,Intermediate
+727,Yes,No,No,Data Analysis,Highly Collaborative,5,Study Group,9,4,2,Verbal,Dislike,8,Intermediate
+728,No,No,No,Computer Vision,Dislike,3,TextBook,5,4,6,Verbal,Enjoy Communicating,6,Advanced
+729,No,Yes,No,NLP,Highly Collaborative,6,TextBook,1,10,4,Written,Neutral,9,Intermediate
+730,No,Yes,Yes,NLP,Neutral,1,Online,6,1,3,Verbal,Enjoy Communicating,10,Beginner
+731,Yes,No,No,NLP,Neutral,9,Peer Discussion,7,2,2,Written,Neutral,2,Beginner
+732,No,Yes,Yes,Data Analysis,Dislike,10,Study Group,1,5,10,Verbal,Neutral,7,Intermediate
+733,No,No,Yes,NLP,Neutral,9,Online,2,8,9,Written,Enjoy Communicating,5,Beginner
+734,Yes,Yes,Yes,Deep Learning,Highly Collaborative,4,TextBook,2,10,9,Written,Dislike,4,Professional
+735,No,No,No,Data Analysis,Neutral,5,TextBook,4,3,3,Verbal,Dislike,6,Beginner
+736,Yes,Yes,No,Deep Learning,Dislike,6,Study Group,3,6,6,Verbal,Neutral,4,Intermediate
+737,No,Yes,Yes,Data Analysis,Dislike,4,TextBook,1,2,9,Verbal,Neutral,7,Intermediate
+738,Yes,No,No,Data Analysis,Dislike,6,Study Group,5,6,1,Written,Dislike,6,Advanced
+739,No,Yes,No,Data Analysis,Highly Collaborative,3,Study Group,4,1,6,Written,Neutral,5,Advanced
+740,No,No,No,Computer Vision,Neutral,2,Online,3,6,2,Verbal,Dislike,5,Professional
+741,Yes,No,No,Data Analysis,Independent,10,Study Group,9,1,8,Written,Dislike,8,Beginner
+742,Yes,Yes,No,Computer Vision,Neutral,7,Study Group,10,6,4,Written,Neutral,1,Professional
+743,No,No,No,Deep Learning,Dislike,3,Online,7,4,10,Written,Neutral,10,Intermediate
+744,Yes,Yes,Yes,Data Analysis,Dislike,7,TextBook,10,10,7,Written,Neutral,2,Beginner
+745,Yes,No,Yes,Computer Vision,Independent,6,Online,9,1,2,Verbal,Neutral,10,Beginner
+746,No,No,Yes,NLP,Neutral,8,Study Group,1,6,5,Verbal,Dislike,10,Intermediate
+747,Yes,No,No,Deep Learning,Independent,5,Study Group,6,2,10,Written,Neutral,6,Beginner
+748,Yes,Yes,No,Deep Learning,Dislike,7,Peer Discussion,5,3,5,Written,Neutral,6,Intermediate
+749,Yes,Yes,No,NLP,Neutral,5,Online,10,4,3,Written,Enjoy Communicating,4,Intermediate
+750,No,No,Yes,NLP,Highly Collaborative,3,Online,1,6,2,Verbal,Neutral,4,Intermediate
+751,No,No,Yes,Deep Learning,Independent,5,Online,4,1,3,Verbal,Enjoy Communicating,4,Advanced
+752,Yes,Yes,No,Deep Learning,Highly Collaborative,6,Study Group,9,4,1,Verbal,Enjoy Communicating,10,Professional
+753,Yes,Yes,No,NLP,Dislike,4,TextBook,3,10,9,Written,Dislike,10,Professional
+754,Yes,No,No,Deep Learning,Independent,2,Online,9,4,1,Verbal,Neutral,9,Beginner
+755,Yes,Yes,No,Computer Vision,Independent,9,Study Group,7,4,6,Written,Enjoy Communicating,1,Intermediate
+756,Yes,Yes,Yes,Data Analysis,Dislike,6,Peer Discussion,6,10,9,Verbal,Dislike,4,Advanced
+757,Yes,No,Yes,NLP,Dislike,3,Online,2,2,10,Written,Dislike,6,Advanced
+758,Yes,Yes,Yes,Computer Vision,Independent,6,Study Group,8,6,3,Verbal,Enjoy Communicating,6,Advanced
+759,No,Yes,No,Deep Learning,Dislike,8,TextBook,3,10,5,Verbal,Enjoy Communicating,1,Beginner
+760,No,Yes,No,Data Analysis,Highly Collaborative,9,TextBook,1,7,5,Written,Dislike,6,Professional
+761,No,Yes,Yes,NLP,Neutral,9,TextBook,7,7,10,Written,Enjoy Communicating,5,Beginner
+762,No,No,Yes,Deep Learning,Dislike,9,Peer Discussion,9,9,10,Verbal,Dislike,9,Intermediate
+763,No,Yes,No,Data Analysis,Dislike,4,TextBook,5,8,2,Written,Neutral,8,Intermediate
+764,Yes,Yes,No,Data Analysis,Neutral,3,Online,9,10,3,Written,Dislike,1,Intermediate
+765,Yes,Yes,No,NLP,Dislike,3,TextBook,7,9,3,Verbal,Enjoy Communicating,4,Advanced
+766,No,Yes,Yes,NLP,Dislike,10,Peer Discussion,4,4,6,Written,Neutral,2,Intermediate
+767,No,Yes,Yes,Deep Learning,Highly Collaborative,2,TextBook,9,1,5,Written,Dislike,7,Advanced
+768,No,No,Yes,Deep Learning,Dislike,3,Peer Discussion,10,9,8,Written,Enjoy Communicating,1,Professional
+769,No,No,Yes,Data Analysis,Dislike,9,Online,1,5,2,Written,Enjoy Communicating,3,Professional
+770,No,No,No,NLP,Independent,7,Peer Discussion,6,5,6,Verbal,Enjoy Communicating,4,Beginner
+771,No,Yes,Yes,Data Analysis,Dislike,5,Peer Discussion,9,9,3,Written,Dislike,9,Advanced
+772,No,Yes,Yes,Deep Learning,Highly Collaborative,9,Study Group,9,9,1,Written,Neutral,9,Professional
+773,Yes,No,No,Data Analysis,Dislike,5,Study Group,9,2,10,Written,Neutral,5,Intermediate
+774,No,Yes,No,NLP,Neutral,7,Peer Discussion,2,3,7,Verbal,Dislike,3,Beginner
+775,No,No,Yes,NLP,Dislike,8,Study Group,2,9,7,Verbal,Enjoy Communicating,5,Beginner
+776,No,Yes,Yes,NLP,Independent,8,Peer Discussion,2,6,10,Verbal,Dislike,9,Professional
+777,Yes,Yes,No,Deep Learning,Neutral,10,Peer Discussion,4,10,3,Verbal,Enjoy Communicating,1,Advanced
+778,No,Yes,Yes,NLP,Independent,9,Study Group,9,9,3,Written,Enjoy Communicating,2,Advanced
+779,No,Yes,Yes,NLP,Dislike,1,Peer Discussion,2,6,3,Written,Neutral,1,Advanced
+780,No,Yes,No,Computer Vision,Dislike,9,Peer Discussion,6,4,4,Written,Enjoy Communicating,8,Beginner
+781,Yes,Yes,Yes,NLP,Highly Collaborative,4,TextBook,10,10,7,Verbal,Neutral,4,Intermediate
+782,No,Yes,No,NLP,Highly Collaborative,9,Online,8,8,5,Verbal,Neutral,9,Professional
+783,No,No,Yes,Data Analysis,Highly Collaborative,10,Study Group,9,9,10,Verbal,Enjoy Communicating,3,Intermediate
+784,No,Yes,Yes,NLP,Neutral,2,Study Group,9,2,2,Verbal,Dislike,6,Beginner
+785,No,No,No,Deep Learning,Independent,9,Online,3,9,8,Written,Neutral,8,Advanced
+786,No,No,No,Computer Vision,Highly Collaborative,6,Online,4,1,6,Verbal,Dislike,7,Advanced
+787,No,No,Yes,Data Analysis,Highly Collaborative,10,TextBook,7,2,2,Verbal,Enjoy Communicating,6,Professional
+788,No,No,Yes,Deep Learning,Neutral,9,TextBook,4,3,9,Written,Enjoy Communicating,1,Advanced
+789,No,Yes,No,NLP,Independent,8,Online,2,9,10,Written,Enjoy Communicating,3,Intermediate
+790,Yes,No,Yes,NLP,Independent,7,Study Group,2,9,9,Written,Dislike,5,Intermediate
+791,Yes,Yes,Yes,Data Analysis,Independent,1,Study Group,10,8,9,Verbal,Neutral,2,Advanced
+792,No,Yes,Yes,Computer Vision,Dislike,4,Study Group,9,5,3,Verbal,Dislike,8,Professional
+793,No,Yes,Yes,NLP,Highly Collaborative,7,Online,6,9,10,Written,Neutral,4,Professional
+794,No,No,Yes,Computer Vision,Neutral,5,TextBook,6,2,6,Written,Dislike,9,Professional
+795,Yes,Yes,Yes,Computer Vision,Independent,6,Online,2,10,6,Written,Dislike,6,Professional
+796,No,Yes,Yes,Data Analysis,Highly Collaborative,6,Study Group,10,5,6,Written,Enjoy Communicating,9,Advanced
+797,No,Yes,No,Computer Vision,Neutral,4,Online,6,9,8,Verbal,Neutral,9,Professional
+798,No,Yes,Yes,NLP,Highly Collaborative,5,Online,8,1,3,Verbal,Enjoy Communicating,8,Intermediate
+799,No,Yes,Yes,NLP,Independent,4,Peer Discussion,4,9,2,Verbal,Neutral,7,Professional
+800,Yes,Yes,No,Data Analysis,Dislike,4,Study Group,6,7,1,Written,Neutral,8,Advanced
+801,No,Yes,No,Computer Vision,Independent,9,TextBook,2,10,10,Verbal,Neutral,3,Advanced
+802,Yes,No,No,Data Analysis,Dislike,3,Study Group,9,9,1,Written,Enjoy Communicating,2,Professional
+803,No,No,Yes,Data Analysis,Dislike,3,Online,10,4,10,Written,Enjoy Communicating,3,Professional
+804,Yes,No,No,NLP,Independent,2,Peer Discussion,6,4,6,Verbal,Enjoy Communicating,10,Intermediate
+805,No,Yes,No,Computer Vision,Independent,6,Study Group,6,5,3,Written,Neutral,6,Intermediate
+806,No,Yes,No,Data Analysis,Highly Collaborative,2,TextBook,4,8,10,Written,Neutral,1,Professional
+807,Yes,Yes,Yes,NLP,Dislike,5,Study Group,9,9,6,Written,Neutral,6,Beginner
+808,Yes,No,No,Computer Vision,Dislike,3,Study Group,2,5,4,Written,Dislike,4,Professional
+809,Yes,Yes,Yes,Deep Learning,Neutral,7,TextBook,8,5,5,Written,Enjoy Communicating,9,Advanced
+810,Yes,Yes,No,Deep Learning,Independent,5,Study Group,9,9,9,Verbal,Dislike,1,Beginner
+811,Yes,Yes,Yes,Deep Learning,Neutral,2,Online,4,2,4,Verbal,Neutral,5,Intermediate
+812,No,Yes,No,Deep Learning,Highly Collaborative,2,Peer Discussion,8,5,3,Written,Dislike,6,Beginner
+813,Yes,Yes,No,Data Analysis,Dislike,9,Study Group,6,8,6,Written,Enjoy Communicating,2,Professional
+814,Yes,Yes,No,Deep Learning,Neutral,6,TextBook,1,10,5,Written,Neutral,7,Professional
+815,Yes,No,Yes,Computer Vision,Dislike,2,Online,10,5,1,Written,Dislike,2,Beginner
+816,Yes,Yes,Yes,NLP,Independent,6,Study Group,9,8,3,Verbal,Enjoy Communicating,4,Intermediate
+817,No,Yes,Yes,Data Analysis,Highly Collaborative,2,Peer Discussion,7,1,2,Verbal,Neutral,7,Professional
+818,No,Yes,Yes,Computer Vision,Independent,10,TextBook,5,2,2,Written,Neutral,8,Advanced
+819,No,Yes,No,NLP,Neutral,4,Study Group,10,9,6,Written,Enjoy Communicating,3,Advanced
+820,No,Yes,Yes,Computer Vision,Highly Collaborative,4,Online,3,10,3,Verbal,Enjoy Communicating,7,Professional
+821,Yes,Yes,No,Deep Learning,Highly Collaborative,8,Study Group,5,3,10,Verbal,Dislike,5,Beginner
+822,No,No,No,Deep Learning,Independent,3,TextBook,1,9,4,Verbal,Dislike,6,Beginner
+823,No,No,No,Computer Vision,Highly Collaborative,4,TextBook,7,9,1,Written,Enjoy Communicating,5,Advanced
+824,No,No,Yes,Data Analysis,Highly Collaborative,7,Peer Discussion,9,8,10,Verbal,Neutral,1,Intermediate
+825,No,Yes,Yes,Deep Learning,Highly Collaborative,1,Study Group,4,3,6,Written,Enjoy Communicating,6,Professional
+826,Yes,No,Yes,Deep Learning,Dislike,9,TextBook,6,3,9,Written,Neutral,4,Intermediate
+827,Yes,Yes,No,Deep Learning,Highly Collaborative,5,TextBook,4,4,3,Written,Enjoy Communicating,8,Intermediate
+828,No,No,No,Deep Learning,Dislike,3,TextBook,9,10,5,Written,Dislike,9,Beginner
+829,Yes,No,No,Data Analysis,Dislike,4,TextBook,2,7,8,Verbal,Enjoy Communicating,4,Beginner
+830,No,No,No,Data Analysis,Dislike,8,Peer Discussion,6,2,2,Written,Dislike,5,Intermediate
+831,No,Yes,Yes,NLP,Independent,1,Study Group,10,10,3,Written,Neutral,3,Beginner
+832,No,Yes,No,Computer Vision,Neutral,2,TextBook,10,2,9,Verbal,Dislike,6,Intermediate
+833,No,Yes,Yes,Deep Learning,Highly Collaborative,5,Study Group,5,10,8,Verbal,Enjoy Communicating,3,Professional
+834,Yes,Yes,No,Deep Learning,Highly Collaborative,9,Study Group,8,10,10,Written,Enjoy Communicating,9,Professional
+835,No,Yes,Yes,Data Analysis,Independent,6,Peer Discussion,10,10,10,Verbal,Enjoy Communicating,9,Advanced
+836,Yes,No,No,Data Analysis,Independent,4,Online,10,10,3,Written,Enjoy Communicating,1,Advanced
+837,Yes,No,No,Deep Learning,Dislike,8,Study Group,5,3,10,Verbal,Enjoy Communicating,4,Advanced
+838,Yes,Yes,No,NLP,Highly Collaborative,5,Study Group,2,5,3,Verbal,Neutral,5,Advanced
+839,No,Yes,No,Deep Learning,Dislike,6,Study Group,1,6,4,Written,Neutral,2,Advanced
+840,Yes,No,Yes,NLP,Independent,9,Online,3,9,8,Verbal,Dislike,1,Advanced
+841,Yes,Yes,Yes,Deep Learning,Independent,5,TextBook,4,1,10,Verbal,Dislike,7,Beginner
+842,No,No,No,NLP,Dislike,4,Study Group,2,3,7,Written,Dislike,7,Intermediate
+843,Yes,Yes,Yes,Deep Learning,Neutral,6,Study Group,5,3,3,Verbal,Dislike,5,Professional
+844,Yes,No,No,NLP,Independent,7,Peer Discussion,4,8,6,Written,Enjoy Communicating,10,Advanced
+845,Yes,No,Yes,NLP,Neutral,2,Study Group,10,10,10,Verbal,Dislike,10,Beginner
+846,No,Yes,No,Computer Vision,Highly Collaborative,10,Peer Discussion,8,8,9,Verbal,Dislike,2,Advanced
+847,Yes,No,No,Deep Learning,Independent,9,Online,6,10,7,Verbal,Neutral,1,Advanced
+848,No,Yes,Yes,Data Analysis,Highly Collaborative,10,Peer Discussion,9,6,10,Written,Dislike,1,Professional
+849,No,No,No,Computer Vision,Dislike,2,Online,9,10,4,Verbal,Dislike,3,Advanced
+850,Yes,No,Yes,NLP,Neutral,1,Peer Discussion,8,6,10,Verbal,Enjoy Communicating,10,Advanced
+851,No,Yes,Yes,Deep Learning,Neutral,3,Study Group,4,7,5,Verbal,Dislike,8,Advanced
+852,Yes,Yes,Yes,Computer Vision,Independent,10,Study Group,7,4,1,Written,Neutral,5,Advanced
+853,No,No,Yes,Data Analysis,Independent,7,Online,7,1,6,Written,Neutral,2,Beginner
+854,No,No,No,NLP,Independent,7,Peer Discussion,8,4,10,Verbal,Enjoy Communicating,9,Beginner
+855,No,Yes,Yes,Computer Vision,Independent,3,Online,2,8,9,Written,Neutral,8,Intermediate
+856,No,No,No,Computer Vision,Neutral,8,TextBook,4,10,6,Verbal,Dislike,7,Beginner
+857,Yes,Yes,Yes,Deep Learning,Neutral,3,Study Group,9,2,5,Written,Dislike,1,Intermediate
+858,No,No,Yes,Data Analysis,Neutral,6,TextBook,3,2,3,Written,Enjoy Communicating,1,Advanced
+859,Yes,No,Yes,Data Analysis,Dislike,10,TextBook,5,8,6,Written,Dislike,4,Intermediate
+860,Yes,No,Yes,Computer Vision,Highly Collaborative,2,Online,6,2,9,Verbal,Dislike,3,Advanced
+861,No,No,Yes,Data Analysis,Highly Collaborative,2,TextBook,6,6,5,Written,Neutral,1,Intermediate
+862,Yes,No,No,Data Analysis,Neutral,6,TextBook,9,8,1,Written,Enjoy Communicating,9,Professional
+863,No,No,No,NLP,Dislike,5,Online,2,6,3,Verbal,Neutral,8,Intermediate
+864,No,No,No,Data Analysis,Highly Collaborative,2,Study Group,3,3,7,Written,Dislike,10,Advanced
+865,Yes,Yes,Yes,Data Analysis,Neutral,9,TextBook,4,7,5,Verbal,Dislike,6,Intermediate
+866,No,No,No,Computer Vision,Highly Collaborative,5,Study Group,2,1,2,Written,Enjoy Communicating,5,Advanced
+867,Yes,Yes,No,Data Analysis,Dislike,9,Online,10,3,9,Written,Neutral,7,Advanced
+868,Yes,No,Yes,Computer Vision,Dislike,10,Online,3,9,6,Written,Dislike,2,Intermediate
+869,Yes,Yes,No,NLP,Independent,4,Peer Discussion,6,3,3,Written,Enjoy Communicating,1,Professional
+870,No,Yes,No,Deep Learning,Independent,2,Study Group,5,6,3,Verbal,Enjoy Communicating,5,Beginner
+871,Yes,Yes,Yes,Computer Vision,Highly Collaborative,3,Peer Discussion,1,9,1,Written,Dislike,8,Advanced
+872,No,Yes,Yes,NLP,Independent,1,Peer Discussion,2,2,5,Verbal,Neutral,4,Beginner
+873,No,No,Yes,Computer Vision,Dislike,9,Peer Discussion,8,10,6,Written,Enjoy Communicating,2,Advanced
+874,Yes,No,No,NLP,Independent,3,Online,7,10,2,Written,Enjoy Communicating,2,Beginner
+875,Yes,No,No,Data Analysis,Independent,1,Study Group,5,7,2,Written,Neutral,8,Beginner
+876,Yes,No,No,Computer Vision,Neutral,10,Peer Discussion,8,9,6,Verbal,Dislike,10,Intermediate
+877,No,Yes,No,Deep Learning,Highly Collaborative,5,TextBook,4,4,6,Written,Neutral,8,Professional
+878,No,No,No,Computer Vision,Dislike,10,Study Group,5,4,7,Verbal,Neutral,6,Professional
+879,No,No,Yes,NLP,Highly Collaborative,5,TextBook,9,2,8,Verbal,Enjoy Communicating,6,Intermediate
+880,Yes,No,Yes,Deep Learning,Highly Collaborative,7,TextBook,5,4,3,Written,Dislike,7,Intermediate
+881,Yes,Yes,No,Data Analysis,Highly Collaborative,10,Study Group,10,1,10,Verbal,Dislike,4,Intermediate
+882,Yes,No,No,Deep Learning,Independent,3,TextBook,8,9,9,Verbal,Dislike,4,Professional
+883,Yes,No,Yes,Deep Learning,Neutral,2,Study Group,8,2,2,Verbal,Dislike,1,Intermediate
+884,Yes,No,Yes,NLP,Dislike,7,TextBook,9,5,10,Written,Neutral,10,Beginner
+885,No,No,Yes,Data Analysis,Dislike,7,Study Group,10,1,6,Verbal,Enjoy Communicating,1,Intermediate
+886,No,Yes,Yes,Data Analysis,Neutral,6,TextBook,4,7,2,Verbal,Dislike,6,Beginner
+887,No,No,Yes,Data Analysis,Neutral,9,Study Group,3,10,4,Written,Neutral,5,Advanced
+888,No,Yes,No,Data Analysis,Neutral,3,TextBook,4,6,6,Verbal,Dislike,6,Advanced
+889,No,No,No,NLP,Highly Collaborative,10,Study Group,5,2,6,Verbal,Neutral,6,Professional
+890,No,No,Yes,Computer Vision,Independent,3,Study Group,8,3,7,Written,Neutral,4,Advanced
+891,Yes,No,Yes,Deep Learning,Highly Collaborative,2,Study Group,4,10,4,Written,Neutral,10,Professional
+892,No,Yes,Yes,Deep Learning,Neutral,3,TextBook,1,1,6,Verbal,Dislike,3,Beginner
+893,Yes,Yes,Yes,NLP,Dislike,2,Online,3,9,10,Written,Neutral,10,Advanced
+894,Yes,No,No,NLP,Highly Collaborative,6,Study Group,2,9,1,Written,Enjoy Communicating,1,Professional
+895,Yes,Yes,No,NLP,Highly Collaborative,9,Peer Discussion,5,6,2,Verbal,Enjoy Communicating,1,Professional
+896,Yes,Yes,Yes,Computer Vision,Independent,1,Online,9,7,3,Written,Enjoy Communicating,7,Advanced
+897,No,Yes,Yes,NLP,Neutral,10,Peer Discussion,8,7,2,Written,Enjoy Communicating,10,Advanced
+898,No,No,No,Data Analysis,Highly Collaborative,10,Peer Discussion,4,5,2,Verbal,Dislike,9,Professional
+899,Yes,Yes,No,Data Analysis,Dislike,10,Study Group,4,3,3,Written,Enjoy Communicating,3,Professional
+900,No,No,No,NLP,Neutral,5,Online,9,3,3,Written,Dislike,6,Advanced
+901,Yes,Yes,Yes,NLP,Highly Collaborative,4,Study Group,2,2,6,Written,Neutral,3,Beginner
+902,Yes,No,Yes,Computer Vision,Highly Collaborative,3,TextBook,4,1,7,Verbal,Enjoy Communicating,4,Beginner
+903,No,Yes,No,Data Analysis,Dislike,8,Peer Discussion,10,4,2,Verbal,Enjoy Communicating,4,Beginner
+904,Yes,Yes,Yes,Computer Vision,Dislike,1,Online,3,10,8,Verbal,Enjoy Communicating,7,Beginner
+905,No,Yes,No,Computer Vision,Neutral,6,TextBook,4,2,6,Written,Neutral,6,Advanced
+906,Yes,No,No,Data Analysis,Independent,2,TextBook,4,3,7,Written,Dislike,10,Intermediate
+907,No,No,No,Deep Learning,Dislike,4,TextBook,4,4,10,Verbal,Enjoy Communicating,7,Professional
+908,Yes,No,No,Deep Learning,Dislike,2,TextBook,5,8,8,Verbal,Enjoy Communicating,10,Intermediate
+909,Yes,Yes,No,NLP,Dislike,8,Study Group,4,9,10,Verbal,Enjoy Communicating,3,Advanced
+910,No,No,No,NLP,Independent,3,TextBook,6,2,10,Verbal,Neutral,2,Intermediate
+911,No,No,No,Computer Vision,Independent,9,Online,9,4,2,Verbal,Neutral,8,Advanced
+912,Yes,No,No,Data Analysis,Dislike,4,Peer Discussion,1,3,1,Verbal,Dislike,8,Professional
+913,Yes,Yes,Yes,Data Analysis,Neutral,5,Online,2,5,1,Verbal,Enjoy Communicating,1,Beginner
+914,No,Yes,Yes,Data Analysis,Neutral,4,Peer Discussion,1,4,3,Written,Neutral,9,Beginner
+915,Yes,Yes,No,NLP,Neutral,9,Online,1,10,2,Verbal,Neutral,2,Professional
+916,No,No,Yes,Deep Learning,Neutral,2,Study Group,8,7,3,Written,Enjoy Communicating,2,Beginner
+917,No,Yes,No,Computer Vision,Dislike,6,TextBook,2,5,7,Verbal,Dislike,4,Advanced
+918,No,No,No,Data Analysis,Neutral,2,Peer Discussion,6,2,8,Written,Neutral,3,Professional
+919,Yes,Yes,No,Data Analysis,Dislike,4,Online,3,3,10,Written,Dislike,10,Beginner
+920,No,No,Yes,NLP,Highly Collaborative,4,Online,6,1,6,Verbal,Neutral,9,Beginner
+921,Yes,No,Yes,NLP,Neutral,2,Peer Discussion,7,4,10,Written,Dislike,6,Professional
+922,Yes,No,No,Data Analysis,Highly Collaborative,7,TextBook,1,10,1,Verbal,Neutral,4,Professional
+923,Yes,No,No,NLP,Highly Collaborative,7,Study Group,5,6,10,Verbal,Enjoy Communicating,8,Professional
+924,Yes,Yes,No,NLP,Dislike,8,Online,6,3,1,Written,Neutral,9,Intermediate
+925,Yes,No,No,Computer Vision,Highly Collaborative,2,Peer Discussion,5,3,6,Verbal,Dislike,3,Beginner
+926,Yes,Yes,No,NLP,Highly Collaborative,4,Peer Discussion,3,10,3,Verbal,Neutral,10,Professional
+927,Yes,No,No,Deep Learning,Highly Collaborative,9,Online,7,4,9,Verbal,Neutral,10,Professional
+928,No,No,No,Data Analysis,Independent,5,Peer Discussion,1,10,1,Verbal,Enjoy Communicating,2,Intermediate
+929,No,No,No,NLP,Highly Collaborative,10,Online,1,2,6,Written,Enjoy Communicating,3,Advanced
+930,No,No,Yes,NLP,Neutral,2,Study Group,1,4,6,Written,Enjoy Communicating,5,Intermediate
+931,No,No,No,Deep Learning,Dislike,7,Online,3,4,3,Verbal,Dislike,1,Beginner
+932,Yes,No,No,Deep Learning,Independent,9,Study Group,10,2,9,Verbal,Enjoy Communicating,5,Advanced
+933,No,Yes,Yes,Data Analysis,Neutral,7,Peer Discussion,8,9,3,Written,Enjoy Communicating,7,Intermediate
+934,Yes,Yes,No,Deep Learning,Highly Collaborative,10,TextBook,1,1,9,Verbal,Enjoy Communicating,10,Professional
+935,No,Yes,Yes,Deep Learning,Highly Collaborative,8,TextBook,5,3,2,Verbal,Neutral,3,Intermediate
+936,Yes,Yes,Yes,NLP,Independent,4,Online,4,6,1,Written,Enjoy Communicating,8,Professional
+937,No,No,No,Computer Vision,Independent,5,Study Group,1,8,7,Written,Dislike,7,Intermediate
+938,No,Yes,No,Deep Learning,Highly Collaborative,5,Online,7,5,8,Written,Dislike,6,Advanced
+939,No,No,No,NLP,Dislike,6,Peer Discussion,8,8,2,Written,Dislike,5,Professional
+940,No,No,Yes,Data Analysis,Independent,5,Peer Discussion,8,8,7,Verbal,Neutral,4,Intermediate
+941,Yes,Yes,Yes,Computer Vision,Dislike,6,Peer Discussion,1,5,7,Written,Dislike,3,Intermediate
+942,No,No,Yes,Computer Vision,Dislike,4,Peer Discussion,8,4,5,Verbal,Dislike,1,Professional
+943,No,Yes,Yes,Deep Learning,Independent,5,Peer Discussion,6,5,5,Verbal,Neutral,9,Intermediate
+944,No,Yes,Yes,Data Analysis,Independent,5,Peer Discussion,3,7,5,Written,Neutral,8,Advanced
+945,No,Yes,Yes,Data Analysis,Independent,7,Study Group,6,3,2,Written,Enjoy Communicating,5,Professional
+946,Yes,Yes,Yes,Data Analysis,Independent,10,TextBook,8,5,7,Written,Dislike,8,Beginner
+947,No,No,Yes,Data Analysis,Highly Collaborative,4,Study Group,4,3,3,Verbal,Dislike,8,Intermediate
+948,No,No,No,Data Analysis,Neutral,1,TextBook,1,3,10,Written,Dislike,6,Intermediate
+949,Yes,No,No,NLP,Neutral,5,Study Group,5,5,6,Written,Dislike,7,Professional
+950,No,Yes,Yes,Deep Learning,Neutral,1,Peer Discussion,8,5,4,Written,Enjoy Communicating,3,Professional
+951,Yes,No,No,NLP,Highly Collaborative,3,Study Group,2,8,5,Written,Enjoy Communicating,4,Professional
+952,Yes,No,Yes,Data Analysis,Independent,5,Study Group,7,9,2,Written,Neutral,4,Advanced
+953,Yes,Yes,Yes,Data Analysis,Independent,8,Peer Discussion,8,3,4,Written,Dislike,9,Beginner
+954,No,Yes,Yes,NLP,Dislike,4,Online,5,2,5,Written,Enjoy Communicating,6,Advanced
+955,No,Yes,Yes,Data Analysis,Independent,10,TextBook,5,3,5,Written,Enjoy Communicating,5,Advanced
+956,No,No,Yes,Deep Learning,Neutral,7,Study Group,9,5,8,Written,Neutral,1,Intermediate
+957,Yes,Yes,Yes,NLP,Dislike,10,TextBook,3,3,8,Verbal,Enjoy Communicating,7,Intermediate
+958,No,Yes,No,Computer Vision,Independent,2,Peer Discussion,4,4,7,Verbal,Neutral,5,Professional
+959,Yes,No,No,Computer Vision,Dislike,8,Online,7,4,4,Written,Enjoy Communicating,9,Intermediate
+960,Yes,No,No,Data Analysis,Highly Collaborative,8,Peer Discussion,4,4,5,Written,Neutral,9,Intermediate
+961,Yes,No,No,Data Analysis,Neutral,8,Study Group,6,2,2,Verbal,Neutral,2,Advanced
+962,Yes,No,No,Computer Vision,Neutral,5,TextBook,8,3,5,Written,Enjoy Communicating,6,Professional
+963,No,Yes,No,Data Analysis,Neutral,6,Online,6,3,10,Verbal,Neutral,3,Intermediate
+964,No,Yes,No,Computer Vision,Highly Collaborative,4,Online,7,4,10,Verbal,Neutral,8,Advanced
+965,Yes,Yes,Yes,Computer Vision,Independent,6,Online,9,1,6,Written,Dislike,10,Intermediate
+966,No,Yes,No,NLP,Dislike,10,Study Group,4,6,4,Verbal,Enjoy Communicating,9,Beginner
+967,Yes,Yes,No,Data Analysis,Dislike,4,Online,8,7,9,Verbal,Enjoy Communicating,10,Advanced
+968,No,No,Yes,Computer Vision,Highly Collaborative,1,Peer Discussion,10,9,2,Written,Enjoy Communicating,6,Beginner
+969,Yes,No,No,Computer Vision,Independent,2,Online,2,2,1,Written,Dislike,10,Professional
+970,No,No,No,Deep Learning,Neutral,8,Online,10,4,5,Written,Dislike,7,Intermediate
+971,No,No,Yes,Computer Vision,Neutral,3,TextBook,5,5,1,Written,Dislike,1,Beginner
+972,No,Yes,No,Deep Learning,Neutral,5,TextBook,7,3,5,Written,Neutral,8,Advanced
+973,Yes,Yes,Yes,Data Analysis,Neutral,6,Online,5,4,1,Written,Enjoy Communicating,9,Beginner
+974,Yes,Yes,Yes,Computer Vision,Highly Collaborative,9,TextBook,5,7,9,Written,Dislike,10,Beginner
+975,Yes,No,Yes,Computer Vision,Dislike,8,Peer Discussion,4,2,10,Written,Enjoy Communicating,6,Beginner
+976,No,No,No,Deep Learning,Independent,5,TextBook,10,4,7,Verbal,Neutral,4,Professional
+977,Yes,No,Yes,NLP,Dislike,6,Online,1,1,5,Written,Enjoy Communicating,3,Professional
+978,Yes,Yes,No,Data Analysis,Neutral,2,Study Group,10,3,6,Verbal,Enjoy Communicating,4,Beginner
+979,No,Yes,Yes,Deep Learning,Neutral,7,TextBook,2,9,6,Written,Neutral,5,Advanced
+980,No,Yes,Yes,Deep Learning,Independent,4,TextBook,7,6,6,Written,Enjoy Communicating,4,Advanced
+981,No,No,No,Data Analysis,Independent,8,Online,7,8,8,Written,Neutral,6,Intermediate
+982,No,No,Yes,Deep Learning,Dislike,1,TextBook,3,9,5,Written,Dislike,3,Professional
+983,Yes,Yes,No,Data Analysis,Independent,2,TextBook,10,7,6,Verbal,Neutral,8,Intermediate
+984,Yes,Yes,Yes,Data Analysis,Neutral,1,Study Group,5,6,6,Verbal,Neutral,9,Intermediate
+985,No,Yes,No,Computer Vision,Dislike,2,Online,5,3,9,Written,Neutral,3,Professional
+986,Yes,No,Yes,NLP,Independent,1,TextBook,2,4,9,Verbal,Enjoy Communicating,1,Advanced
+987,No,No,No,Computer Vision,Highly Collaborative,5,TextBook,3,7,3,Verbal,Enjoy Communicating,5,Beginner
+988,Yes,Yes,No,Data Analysis,Highly Collaborative,7,TextBook,5,10,6,Written,Neutral,6,Intermediate
+989,No,Yes,No,Computer Vision,Neutral,7,Study Group,6,2,9,Written,Neutral,1,Professional
+990,Yes,Yes,No,Deep Learning,Dislike,10,Study Group,5,3,4,Written,Neutral,6,Intermediate
+991,No,Yes,No,NLP,Neutral,3,Peer Discussion,3,9,6,Written,Enjoy Communicating,10,Intermediate
+992,No,No,No,Computer Vision,Highly Collaborative,6,Online,3,1,9,Verbal,Dislike,10,Intermediate
+993,No,Yes,No,Computer Vision,Highly Collaborative,4,TextBook,8,9,5,Verbal,Enjoy Communicating,8,Advanced
+994,Yes,No,No,NLP,Dislike,9,Online,3,2,5,Verbal,Dislike,2,Advanced
+995,No,No,No,NLP,Neutral,1,Study Group,9,10,3,Written,Dislike,10,Professional
+996,Yes,Yes,No,NLP,Independent,7,TextBook,3,9,1,Written,Enjoy Communicating,7,Intermediate
+997,Yes,No,Yes,Deep Learning,Independent,9,Peer Discussion,2,4,4,Verbal,Neutral,4,Intermediate
+998,Yes,Yes,Yes,Deep Learning,Highly Collaborative,9,TextBook,5,3,7,Written,Neutral,8,Advanced
+999,Yes,No,Yes,Data Analysis,Dislike,3,TextBook,3,5,1,Verbal,Neutral,10,Professional
